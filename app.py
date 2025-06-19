@@ -32,7 +32,7 @@ def predict():
         app.logger.debug(f'Predicción: {prediction[0]}')
 
         # Devolver las predicciones como respuesta JSON
-        return jsonify({'categoría': prediction[0]})
+        return jsonify({'categoria': prediction[0]})
     except Exception as e:
         app.logger.error(f'Error en la predicción: {str(e)}')
         return jsonify({'error': str(e)}), 400
