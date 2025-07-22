@@ -1,48 +1,74 @@
-from flask import Flask, request, render_template, jsonify
-import joblib
+from flask import Flask, request, jsonify
+from flask_cors import CORS
+import pickle
 import pandas as pd
-import logging
+import json
 
 app = Flask(__name__)
 
-# Cargar el modelo y el scaler
-model = joblib.load('random_forest_model.pkl')
-scaler = joblib.load('scaler.pkl')
-app.logger.debug('Modelo y scaler cargados correctamente.')
+# Orígenes permitidos (ajusta según tu entorno)
+allowed_origins = [
+    'http://localhost:5173',
+    'https://localhost:5173',
+    'https://farma-medic.vercel.app',
+    'https://back-farmam.onrender.com'
+    # Agrega otros orígenes que necesites permitir
+]
 
-# Lista de las variables que el modelo espera (en orden)
-final_features = ['Relative_Compactness', 'Surface_Area', 'Wall_Area', 'Glazing_Area', 'Roof_Area']
+# Configura CORS para esos orígenes
+CORS(app, origins=allowed_origins)
 
-@app.route('/')
-def home():
-    return render_template('form.html')
+# Carga el modelo entrenado
+with open('modelo_clasificacion.pkl', 'rb') as f:
+    model = pickle.load(f)
 
-@app.route('/predict', methods=['POST'])
-def predict():
+@app.route('/metrics', methods=['GET'])
+def metrics():
     try:
-        # Obtener los datos enviados desde el formulario
-        compactness = float(request.form['compactness'])
-        surface_area = float(request.form['surface_area'])
-        wall_area = float(request.form['wall_area'])
-        glazing_area = float(request.form['glazing_area'])
-        roof_area = float(request.form['roof_area'])
-
-        # Crear DataFrame con los datos nuevos
-        data_df = pd.DataFrame([[compactness, surface_area, wall_area, glazing_area, roof_area]],
-                               columns=final_features)
-        app.logger.debug(f'DataFrame recibido: {data_df}')
-
-        # Escalar los datos nuevos
-        data_scaled = scaler.transform(data_df)
-
-        # Realizar la predicción
-        prediction = model.predict(data_scaled)
-        app.logger.debug(f'Predicción: {prediction[0]}')
-
-        return jsonify({'prediccion': prediction[0]})
+        with open("metrics.json", "r") as f:
+            data = json.load(f)
+        return jsonify(data)
     except Exception as e:
-        app.logger.error(f'Error en la predicción: {str(e)}')
-        return jsonify({'error': str(e)}), 400
+        print("Error leyendo metrics.json:", e)  # Esto aparece en la consola de Flask
+
+        return jsonify({"error": "No se pudo leer metrics.json: " + str(e)}), 500
+    
+
+@app.route('/rules', methods=['GET'])
+def get_rules():
+    try:
+        with open('rules.json', 'r') as f:
+            data = json.load(f)
+        return jsonify(data)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+    
+
+@app.route('/predecir', methods=['POST'])
+def predecir():
+    try:
+        data = request.get_json()
+        df = pd.DataFrame(data)
+
+        columnas_esperadas = [
+            'hora_num', 'nombre', 'apellidoPaterno',
+            'apellidoMaterno', 'especialidad', 'turno', 'dia_semana'
+        ]
+        for col in columnas_esperadas:
+            if col not in df.columns:
+                df[col] = 0  # valor por defecto, ajusta si necesitas
+
+        df_model = df[columnas_esperadas]
+
+        pred = model.predict(df_model)
+        proba = model.predict_proba(df_model)[:, 1]
+
+        return jsonify({
+            "predicciones": pred.tolist(),
+            "probabilidades": proba.tolist()
+        })
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(port=5001, debug=True)
