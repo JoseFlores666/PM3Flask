@@ -12,7 +12,6 @@ allowed_origins = [
     'https://localhost:5173',
     'https://farma-medic.vercel.app',
     'https://back-farmam.onrender.com'
-    # Agrega otros orígenes que necesites permitir
 ]
 
 # Configura CORS para esos orígenes
