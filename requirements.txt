@@ -21,3 +21,4 @@ Werkzeug==2.3.7
 setuptools>=61.0.0
 wheel>=0.38.0
 flask-cors==4.0.0
+scikit-learn==1.7.0
