@@ -1,73 +1,103 @@
-from flask import Flask, request, jsonify
+from flask import Flask, jsonify, request
 from flask_cors import CORS
-import pickle
 import pandas as pd
 import json
+import joblib
 
 app = Flask(__name__)
 
-# Orígenes permitidos (ajusta según tu entorno)
-allowed_origins = [
+# Habilitar CORS
+CORS(app, origins=[
     'http://localhost:5173',
     'https://localhost:5173',
     'https://farma-medic.vercel.app',
     'https://back-farmam.onrender.com'
-]
+])
 
-# Configura CORS para esos orígenes
-CORS(app, origins=allowed_origins)
+# Cargar modelo y preprocesador
+model = joblib.load('modelo_kmeans_riesgo.pkl')
+preprocessor = joblib.load('preprocessor_kmeans.pkl')
 
-# Carga el modelo entrenado
-with open('modelo_clasificacion.pkl', 'rb') as f:
-    model = pickle.load(f)
-
-@app.route('/metrics', methods=['GET'])
-def metrics():
+# Dataset base para otros endpoints
+df = pd.read_csv('dataset_pacientes_riesgo_es.csv')
+@app.route('/predecir', methods=['GET'])
+def predecir_todos():
     try:
-        with open("metrics.json", "r") as f:
-            data = json.load(f)
-        return jsonify(data)
-    except Exception as e:
-        print("Error leyendo metrics.json:", e)  # Esto aparece en la consola de Flask
+        columnas_esperadas = ['edad', 'hipertension', 'diabetes', 'alcoholismo', 'discapacidad', 'no_asistio', 'sexo']
+        df_model = df[columnas_esperadas].copy()
 
-        return jsonify({"error": "No se pudo leer metrics.json: " + str(e)}), 500
-    
+        # Mapear sexo
+        map_sexo = {'0': 'M', '1': 'F'}
+        df_model['sexo'] = df_model['sexo'].astype(str).map(map_sexo).fillna('M')
 
-@app.route('/rules', methods=['GET'])
-def get_rules():
-    try:
-        with open('rules.json', 'r') as f:
-            data = json.load(f)
-        return jsonify(data)
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
-    
+        X_pre = preprocessor.transform(df_model)
+        pred = model.predict(X_pre)
+        riesgos = {0: 'Medio Riesgo', 1: 'Alto Riesgo', 2: 'Bajo Riesgo'}
+        resultados = [riesgos.get(p, 'Desconocido') for p in pred]
 
-@app.route('/predecir', methods=['POST'])
-def predecir():
-    try:
-        data = request.get_json()
-        df = pd.DataFrame(data)
+        # Añadir columnas con resultados al dataframe original para enviar todo
+        df_respuesta = df_model.copy()
+        df_respuesta['cluster'] = pred
+        df_respuesta['riesgo'] = resultados
 
-        columnas_esperadas = [
-            'hora_num', 'nombre', 'apellidoPaterno',
-            'apellidoMaterno', 'especialidad', 'turno', 'dia_semana'
-        ]
-        for col in columnas_esperadas:
-            if col not in df.columns:
-                df[col] = 0  # valor por defecto, ajusta si necesitas
+        # Convertir a lista de dicts para JSON
+        data_list = df_respuesta.to_dict(orient='records')
 
-        df_model = df[columnas_esperadas]
-
-        pred = model.predict(df_model)
-        proba = model.predict_proba(df_model)[:, 1]
-
-        return jsonify({
-            "predicciones": pred.tolist(),
-            "probabilidades": proba.tolist()
-        })
+        return jsonify(data_list)
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
+
+
+
+
+@app.route('/reporte_clasificacion', methods=['GET'])
+def reporte_clasificacion():
+    try:
+        with open('classification_report.json', 'r') as f:
+            reporte = json.load(f)
+        return jsonify(reporte)
+    except FileNotFoundError:
+        return jsonify({"error": "Archivo classification_report.json no encontrado"}), 404
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+
+@app.route('/datos_cantidad', methods=['GET'])
+def datos_cantidad():
+    try:
+        with open('datos_cantidad.json', 'r') as f:
+            datos = json.load(f)
+        return jsonify(datos)
+    except FileNotFoundError:
+        return jsonify({"error": "Archivo datos_cantidad.json no encontrado"}), 404
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+
+@app.route('/datos_riesgo', methods=['GET'])
+def datos_riesgo():
+    try:
+        with open('datos_riesgo.json', 'r') as f:
+            datos = json.load(f)
+        return jsonify(datos)
+    except FileNotFoundError:
+        return jsonify({"error": "Archivo datos_riesgo.json no encontrado"}), 404
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+
+@app.route('/datos_heatmap', methods=['GET'])
+def datos_heatmap():
+    try:
+        with open('datos_heatmap.json', 'r') as f:
+            datos = json.load(f)
+        return jsonify(datos)
+    except FileNotFoundError:
+        return jsonify({"error": "Archivo datos_heatmap.json no encontrado"}), 404
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
 
 if __name__ == '__main__':
     app.run(port=5001, debug=True)

@@ -1,0 +1,62 @@
+{
+    "0": {
+        "edad": 34.64561403508772,
+        "hipertension": 0.0,
+        "diabetes": 0.0,
+        "alcoholismo": 0.0,
+        "discapacidad": 0.0,
+        "sms_recibido": 0.3192982456140351,
+        "no_asistio": 0.0,
+        "doctor_id": 10.93157894736842
+    },
+    "1": {
+        "edad": 33.705882352941174,
+        "hipertension": 0.11764705882352941,
+        "diabetes": 0.11764705882352941,
+        "alcoholismo": 1.0,
+        "discapacidad": 0.0,
+        "sms_recibido": 0.35294117647058826,
+        "no_asistio": 0.29411764705882354,
+        "doctor_id": 11.588235294117647
+    },
+    "2": {
+        "edad": 36.19191919191919,
+        "hipertension": 0.0,
+        "diabetes": 0.0,
+        "alcoholismo": 0.0,
+        "discapacidad": 0.0,
+        "sms_recibido": 0.21212121212121213,
+        "no_asistio": 1.0,
+        "doctor_id": 10.38888888888889
+    },
+    "3": {
+        "edad": 37.8235294117647,
+        "hipertension": 0.058823529411764705,
+        "diabetes": 0.11764705882352941,
+        "alcoholismo": 0.0,
+        "discapacidad": 1.0,
+        "sms_recibido": 0.11764705882352941,
+        "no_asistio": 0.11764705882352941,
+        "doctor_id": 9.941176470588236
+    },
+    "4": {
+        "edad": 43.72268907563025,
+        "hipertension": 1.0,
+        "diabetes": 0.0,
+        "alcoholismo": 0.0,
+        "discapacidad": 0.0,
+        "sms_recibido": 0.31932773109243695,
+        "no_asistio": 0.2857142857142857,
+        "doctor_id": 9.84873949579832
+    },
+    "5": {
+        "edad": 44.12658227848101,
+        "hipertension": 0.12658227848101267,
+        "diabetes": 1.0,
+        "alcoholismo": 0.0,
+        "discapacidad": 0.0,
+        "sms_recibido": 0.3037974683544304,
+        "no_asistio": 0.13924050632911392,
+        "doctor_id": 11.810126582278482
+    }
+}

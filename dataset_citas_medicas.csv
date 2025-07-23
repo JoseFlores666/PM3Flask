@@ -1,0 +1,1501 @@
+edad,sexo,especialidad,tipo_servicio,doctor_id,dia_semana,hora,motivo_cita,estado,asistio
+56,M,Oftalmología,Consulta inicial,9,Sábado,18:30,Chequeo anual,Cancelado,1
+69,F,General,Consulta inicial,13,Domingo,15:30,Dolor abdominal,Confirmado,1
+46,F,Dermatología,Emergencia,16,Lunes,09:30,Chequeo anual,Pendiente,0
+32,F,General,Vacunación,18,Domingo,17:30,Vacunación,Pendiente,1
+60,F,General,Examen rutinario,19,Jueves,14:00,Fatiga crónica,Confirmado,1
+25,F,Oftalmología,Seguimiento,12,Miércoles,18:30,Dolor de cabeza,Pendiente,0
+78,M,Ginecología,Emergencia,8,Sábado,10:00,Control prenatal,Cancelado,0
+38,M,General,Examen rutinario,17,Sábado,18:30,Vacunación,Cancelado,0
+56,F,Cardiología,Vacunación,15,Viernes,11:00,Erupción cutánea,Confirmado,0
+75,M,Ginecología,Consulta inicial,10,Sábado,12:00,Control prenatal,Cancelado,1
+36,F,Dermatología,Vacunación,15,Miércoles,11:30,Fatiga crónica,Pendiente,0
+40,F,Dermatología,Seguimiento,15,Jueves,15:30,Fatiga crónica,Pendiente,1
+28,M,General,Emergencia,7,Sábado,10:30,Erupción cutánea,Pendiente,1
+28,M,Ginecología,Emergencia,13,Viernes,15:30,Problemas de visión,Pendiente,0
+41,M,Oftalmología,Seguimiento,17,Miércoles,10:30,Erupción cutánea,Confirmado,1
+70,F,Oftalmología,Examen rutinario,9,Lunes,14:30,Dolor de cabeza,Cancelado,1
+53,M,Neurología,Examen rutinario,8,Martes,18:00,Vacunación,Cancelado,1
+57,F,Dermatología,Emergencia,20,Martes,08:00,Problemas de visión,Pendiente,0
+41,F,Pediatría,Emergencia,18,Lunes,12:00,Fatiga crónica,Confirmado,0
+20,F,Neurología,Consulta inicial,13,Domingo,14:00,Vacunación,Pendiente,1
+39,M,Oftalmología,Examen rutinario,16,Sábado,17:00,Control prenatal,Pendiente,1
+70,M,Ginecología,Seguimiento,9,Martes,16:00,Problemas de visión,Confirmado,1
+19,F,Oftalmología,Examen rutinario,12,Domingo,13:00,Problemas de visión,Confirmado,1
+41,M,Ginecología,Consulta inicial,12,Martes,11:30,Dolor de cabeza,Pendiente,0
+61,M,Neurología,Emergencia,6,Lunes,10:00,Erupción cutánea,Cancelado,1
+47,M,Dermatología,Emergencia,19,Sábado,12:30,Chequeo anual,Pendiente,0
+55,F,Oftalmología,Consulta inicial,7,Sábado,11:00,Control prenatal,Cancelado,0
+19,F,General,Seguimiento,3,Domingo,12:30,Control prenatal,Cancelado,1
+77,M,Ginecología,Emergencia,16,Lunes,09:30,Erupción cutánea,Confirmado,0
+38,F,Dermatología,Vacunación,18,Domingo,12:00,Problemas de visión,Confirmado,1
+50,M,Pediatría,Emergencia,16,Sábado,14:30,Problemas de visión,Pendiente,1
+29,M,Ginecología,Vacunación,7,Sábado,08:30,Dolor de cabeza,Cancelado,0
+75,M,Neurología,Consulta inicial,4,Miércoles,12:00,Chequeo anual,Cancelado,1
+39,M,Pediatría,Consulta inicial,8,Domingo,18:00,Control prenatal,Pendiente,1
+78,F,Pediatría,Emergencia,13,Miércoles,08:00,Fatiga crónica,Pendiente,1
+61,F,Cardiología,Examen rutinario,13,Lunes,12:30,Dolor abdominal,Pendiente,0
+42,F,Oftalmología,Vacunación,17,Jueves,12:30,Dolor abdominal,Confirmado,1
+66,M,Ginecología,Seguimiento,17,Martes,17:30,Chequeo anual,Pendiente,1
+44,M,Pediatría,Emergencia,5,Miércoles,18:30,Vacunación,Pendiente,1
+76,M,Cardiología,Seguimiento,6,Martes,09:00,Dolor de cabeza,Cancelado,0
+80,F,Neurología,Emergencia,19,Viernes,10:30,Chequeo anual,Pendiente,1
+59,M,Dermatología,Examen rutinario,13,Lunes,10:30,Erupción cutánea,Cancelado,0
+45,F,General,Examen rutinario,14,Jueves,18:00,Erupción cutánea,Cancelado,1
+77,F,General,Examen rutinario,4,Viernes,08:30,Dolor abdominal,Confirmado,0
+33,F,Ginecología,Examen rutinario,7,Viernes,16:30,Problemas de visión,Pendiente,1
+32,F,Pediatría,Consulta inicial,8,Sábado,08:30,Dolor abdominal,Pendiente,1
+79,F,General,Consulta inicial,13,Viernes,13:30,Problemas de visión,Cancelado,0
+79,F,Oftalmología,Vacunación,6,Lunes,18:30,Dolor de cabeza,Confirmado,0
+64,M,General,Seguimiento,6,Miércoles,10:00,Problemas de visión,Confirmado,1
+79,M,General,Emergencia,3,Lunes,17:30,Chequeo anual,Pendiente,1
+68,F,General,Emergencia,3,Miércoles,11:00,Problemas de visión,Cancelado,1
+61,F,Cardiología,Consulta inicial,13,Viernes,15:30,Vacunación,Pendiente,1
+72,M,Pediatría,Emergencia,2,Viernes,17:30,Erupción cutánea,Pendiente,0
+69,F,Oftalmología,Consulta inicial,16,Jueves,08:00,Chequeo anual,Pendiente,1
+74,F,Pediatría,Vacunación,6,Miércoles,08:00,Erupción cutánea,Pendiente,1
+20,M,Ginecología,Seguimiento,8,Viernes,16:00,Dolor de cabeza,Cancelado,1
+54,F,Ginecología,Vacunación,8,Sábado,08:00,Chequeo anual,Confirmado,1
+68,F,Ginecología,Examen rutinario,6,Martes,18:00,Vacunación,Pendiente,1
+24,F,Neurología,Examen rutinario,14,Jueves,17:30,Dolor de cabeza,Pendiente,1
+38,M,General,Examen rutinario,3,Lunes,14:00,Dolor abdominal,Pendiente,0
+26,M,Neurología,Vacunación,10,Jueves,12:00,Vacunación,Pendiente,1
+56,M,Cardiología,Emergencia,3,Martes,15:00,Dolor de cabeza,Confirmado,1
+35,F,Ginecología,Seguimiento,12,Miércoles,09:00,Fatiga crónica,Confirmado,0
+21,F,Oftalmología,Examen rutinario,17,Lunes,14:30,Problemas de visión,Confirmado,1
+42,M,Pediatría,Examen rutinario,5,Lunes,13:00,Chequeo anual,Confirmado,1
+77,F,General,Examen rutinario,20,Miércoles,18:30,Dolor de cabeza,Pendiente,1
+31,F,Dermatología,Seguimiento,9,Domingo,13:30,Chequeo anual,Cancelado,1
+67,F,Oftalmología,Examen rutinario,20,Domingo,14:00,Problemas de visión,Confirmado,1
+75,F,General,Seguimiento,7,Jueves,14:00,Dolor de cabeza,Confirmado,0
+26,F,Neurología,Examen rutinario,4,Viernes,08:00,Dolor abdominal,Pendiente,1
+43,M,Neurología,Vacunación,13,Domingo,12:30,Fatiga crónica,Pendiente,1
+70,F,Oftalmología,Vacunación,13,Jueves,09:00,Fatiga crónica,Pendiente,1
+19,M,Neurología,Seguimiento,10,Domingo,09:30,Vacunación,Pendiente,1
+37,F,Ginecología,Vacunación,18,Martes,15:30,Dolor de cabeza,Cancelado,0
+45,M,Cardiología,Seguimiento,17,Sábado,11:30,Problemas de visión,Cancelado,1
+64,F,Pediatría,Vacunación,20,Viernes,15:30,Dolor de cabeza,Confirmado,1
+77,M,Cardiología,Vacunación,20,Jueves,16:00,Chequeo anual,Cancelado,1
+24,F,General,Seguimiento,13,Sábado,17:00,Control prenatal,Confirmado,1
+61,M,Pediatría,Emergencia,17,Sábado,18:30,Erupción cutánea,Confirmado,1
+78,F,Pediatría,Vacunación,4,Domingo,15:00,Dolor de cabeza,Cancelado,1
+25,M,Cardiología,Examen rutinario,1,Miércoles,15:30,Fatiga crónica,Confirmado,1
+64,F,Oftalmología,Emergencia,1,Martes,15:00,Fatiga crónica,Pendiente,1
+52,M,Pediatría,Seguimiento,15,Martes,08:30,Erupción cutánea,Confirmado,1
+31,M,Cardiología,Emergencia,13,Martes,13:00,Fatiga crónica,Pendiente,1
+34,F,Pediatría,Consulta inicial,17,Viernes,08:00,Dolor abdominal,Cancelado,1
+53,F,Dermatología,Consulta inicial,8,Lunes,15:00,Dolor de cabeza,Cancelado,1
+67,M,Oftalmología,Vacunación,18,Viernes,17:00,Vacunación,Confirmado,0
+57,F,Ginecología,Vacunación,13,Jueves,09:30,Dolor de cabeza,Pendiente,1
+21,M,Pediatría,Examen rutinario,14,Sábado,13:00,Control prenatal,Confirmado,0
+19,M,Dermatología,Emergencia,8,Sábado,10:00,Fatiga crónica,Cancelado,1
+79,M,Ginecología,Consulta inicial,8,Lunes,09:00,Chequeo anual,Confirmado,1
+23,F,Ginecología,Vacunación,15,Jueves,14:00,Fatiga crónica,Confirmado,1
+71,M,General,Emergencia,13,Lunes,12:30,Dolor de cabeza,Pendiente,1
+59,M,Pediatría,Vacunación,7,Sábado,13:00,Dolor abdominal,Cancelado,0
+21,F,Cardiología,Vacunación,5,Domingo,16:30,Problemas de visión,Confirmado,1
+71,F,Pediatría,Consulta inicial,17,Viernes,08:30,Dolor de cabeza,Pendiente,1
+46,F,Dermatología,Consulta inicial,16,Martes,11:00,Dolor de cabeza,Confirmado,1
+80,F,Ginecología,Vacunación,2,Sábado,12:00,Vacunación,Pendiente,0
+35,M,Pediatría,Seguimiento,18,Miércoles,12:30,Dolor abdominal,Pendiente,1
+43,M,Cardiología,Vacunación,17,Martes,16:30,Control prenatal,Confirmado,1
+61,M,General,Vacunación,7,Sábado,11:00,Problemas de visión,Cancelado,1
+51,M,Pediatría,Examen rutinario,13,Viernes,11:00,Fatiga crónica,Cancelado,1
+27,F,Oftalmología,Examen rutinario,18,Lunes,09:00,Chequeo anual,Pendiente,1
+79,M,General,Examen rutinario,14,Domingo,13:30,Dolor de cabeza,Cancelado,1
+53,M,Cardiología,Seguimiento,18,Domingo,11:00,Control prenatal,Pendiente,1
+31,F,Dermatología,Seguimiento,13,Martes,16:00,Problemas de visión,Cancelado,1
+48,M,Ginecología,Vacunación,11,Viernes,08:00,Chequeo anual,Confirmado,0
+65,M,Pediatría,Examen rutinario,16,Domingo,10:00,Control prenatal,Cancelado,1
+32,M,Cardiología,Seguimiento,17,Domingo,15:30,Dolor abdominal,Pendiente,1
+25,M,General,Consulta inicial,8,Jueves,15:00,Dolor abdominal,Pendiente,0
+31,M,Oftalmología,Vacunación,19,Miércoles,08:30,Problemas de visión,Cancelado,0
+40,M,Cardiología,Emergencia,20,Martes,12:00,Fatiga crónica,Confirmado,1
+77,F,Neurología,Vacunación,15,Lunes,11:00,Erupción cutánea,Pendiente,0
+74,F,Oftalmología,Emergencia,9,Domingo,09:30,Chequeo anual,Pendiente,1
+79,M,General,Examen rutinario,20,Jueves,17:30,Dolor abdominal,Pendiente,0
+57,M,Dermatología,Emergencia,10,Viernes,16:30,Erupción cutánea,Pendiente,1
+38,F,Ginecología,Examen rutinario,12,Domingo,18:00,Problemas de visión,Pendiente,0
+33,M,General,Consulta inicial,20,Miércoles,09:30,Dolor abdominal,Confirmado,0
+62,M,Dermatología,Emergencia,1,Lunes,14:00,Dolor abdominal,Cancelado,1
+35,M,Pediatría,Vacunación,20,Viernes,08:00,Control prenatal,Confirmado,1
+64,F,Cardiología,Examen rutinario,9,Viernes,09:00,Erupción cutánea,Confirmado,0
+70,M,Neurología,Vacunación,15,Martes,15:30,Control prenatal,Pendiente,1
+41,F,Oftalmología,Seguimiento,1,Domingo,18:30,Dolor abdominal,Confirmado,1
+43,M,Oftalmología,Examen rutinario,12,Martes,09:30,Erupción cutánea,Pendiente,1
+42,F,Cardiología,Emergencia,3,Lunes,15:30,Vacunación,Confirmado,1
+77,F,Neurología,Examen rutinario,11,Domingo,17:00,Erupción cutánea,Pendiente,1
+77,M,Cardiología,Vacunación,2,Sábado,08:00,Control prenatal,Pendiente,1
+77,F,Pediatría,Consulta inicial,16,Domingo,10:00,Chequeo anual,Confirmado,1
+62,M,Dermatología,Examen rutinario,9,Sábado,17:00,Problemas de visión,Confirmado,0
+58,F,General,Emergencia,15,Viernes,18:30,Problemas de visión,Cancelado,1
+46,M,Oftalmología,Seguimiento,12,Martes,13:00,Fatiga crónica,Cancelado,1
+32,M,Pediatría,Consulta inicial,1,Miércoles,14:00,Chequeo anual,Cancelado,1
+62,F,Dermatología,Seguimiento,13,Domingo,17:30,Chequeo anual,Confirmado,1
+18,M,Pediatría,Examen rutinario,14,Miércoles,10:00,Chequeo anual,Confirmado,1
+42,M,Neurología,Vacunación,8,Domingo,18:00,Fatiga crónica,Pendiente,1
+24,F,Oftalmología,Vacunación,8,Viernes,09:30,Chequeo anual,Cancelado,1
+26,M,General,Emergencia,12,Martes,09:30,Dolor de cabeza,Pendiente,1
+41,M,Cardiología,Vacunación,1,Lunes,09:30,Fatiga crónica,Pendiente,1
+18,F,Cardiología,Consulta inicial,11,Lunes,09:30,Problemas de visión,Pendiente,1
+61,F,Dermatología,Vacunación,8,Lunes,17:30,Dolor de cabeza,Pendiente,1
+25,M,General,Emergencia,10,Domingo,18:00,Fatiga crónica,Cancelado,0
+41,M,Ginecología,Examen rutinario,19,Domingo,16:30,Dolor abdominal,Pendiente,1
+80,F,Neurología,Examen rutinario,11,Miércoles,16:30,Dolor abdominal,Confirmado,1
+28,F,Dermatología,Vacunación,7,Martes,15:30,Problemas de visión,Confirmado,1
+68,M,Ginecología,Seguimiento,11,Domingo,12:00,Dolor abdominal,Confirmado,0
+34,F,Pediatría,Examen rutinario,17,Martes,16:30,Chequeo anual,Cancelado,1
+25,M,Neurología,Vacunación,1,Miércoles,18:30,Fatiga crónica,Pendiente,1
+52,M,Pediatría,Emergencia,8,Domingo,08:30,Dolor de cabeza,Cancelado,1
+52,M,General,Vacunación,6,Lunes,18:00,Chequeo anual,Pendiente,1
+50,M,Oftalmología,Examen rutinario,18,Lunes,09:30,Dolor abdominal,Cancelado,1
+76,M,Neurología,Emergencia,6,Viernes,13:30,Control prenatal,Cancelado,0
+22,F,Ginecología,Vacunación,5,Sábado,11:00,Erupción cutánea,Pendiente,0
+59,F,Oftalmología,Consulta inicial,13,Jueves,15:00,Dolor de cabeza,Cancelado,1
+56,F,Cardiología,Emergencia,19,Sábado,11:00,Chequeo anual,Pendiente,1
+75,F,Ginecología,Consulta inicial,8,Domingo,18:30,Fatiga crónica,Confirmado,0
+58,M,Dermatología,Seguimiento,9,Martes,18:00,Problemas de visión,Confirmado,0
+45,M,Cardiología,Emergencia,17,Domingo,16:00,Chequeo anual,Confirmado,0
+24,M,Cardiología,Consulta inicial,3,Martes,15:30,Control prenatal,Cancelado,1
+26,M,Dermatología,Examen rutinario,19,Martes,17:00,Dolor abdominal,Confirmado,0
+25,F,Neurología,Examen rutinario,11,Sábado,12:00,Dolor de cabeza,Pendiente,1
+29,M,Cardiología,Seguimiento,17,Jueves,14:30,Problemas de visión,Confirmado,1
+51,M,General,Emergencia,19,Viernes,16:00,Dolor de cabeza,Confirmado,0
+50,F,Ginecología,Emergencia,2,Sábado,10:00,Problemas de visión,Cancelado,1
+65,F,Oftalmología,Emergencia,8,Jueves,08:30,Erupción cutánea,Pendiente,0
+72,F,Cardiología,Seguimiento,19,Lunes,17:30,Fatiga crónica,Cancelado,1
+40,F,Ginecología,Emergencia,7,Lunes,15:30,Dolor de cabeza,Cancelado,0
+79,M,Pediatría,Examen rutinario,17,Martes,14:30,Dolor abdominal,Pendiente,1
+41,M,Ginecología,Consulta inicial,6,Miércoles,14:30,Fatiga crónica,Cancelado,1
+54,F,Oftalmología,Examen rutinario,19,Domingo,08:00,Fatiga crónica,Pendiente,0
+52,M,Ginecología,Examen rutinario,6,Domingo,09:00,Erupción cutánea,Confirmado,0
+61,M,Dermatología,Consulta inicial,2,Martes,11:00,Problemas de visión,Pendiente,1
+57,M,Oftalmología,Examen rutinario,6,Miércoles,15:00,Vacunación,Pendiente,0
+39,F,Neurología,Seguimiento,5,Jueves,17:00,Dolor de cabeza,Pendiente,1
+44,M,Pediatría,Consulta inicial,19,Lunes,17:30,Dolor de cabeza,Cancelado,1
+52,F,Dermatología,Examen rutinario,20,Domingo,08:30,Chequeo anual,Pendiente,1
+18,M,Neurología,Vacunación,4,Sábado,17:00,Problemas de visión,Pendiente,1
+52,M,Ginecología,Examen rutinario,17,Miércoles,12:00,Control prenatal,Pendiente,1
+54,M,Oftalmología,Seguimiento,11,Jueves,17:00,Vacunación,Confirmado,1
+64,F,Pediatría,Emergencia,4,Lunes,10:00,Dolor abdominal,Pendiente,1
+31,M,Dermatología,Examen rutinario,13,Sábado,16:30,Chequeo anual,Cancelado,0
+20,F,Neurología,Emergencia,20,Miércoles,15:30,Erupción cutánea,Pendiente,0
+18,F,Neurología,Vacunación,17,Martes,09:30,Vacunación,Pendiente,1
+22,F,Pediatría,Examen rutinario,9,Martes,13:30,Problemas de visión,Confirmado,1
+43,M,General,Consulta inicial,4,Martes,11:00,Vacunación,Pendiente,1
+72,M,Ginecología,Emergencia,14,Domingo,14:30,Erupción cutánea,Cancelado,0
+80,M,Pediatría,Vacunación,19,Jueves,13:30,Fatiga crónica,Pendiente,1
+31,M,Neurología,Consulta inicial,3,Martes,09:00,Dolor de cabeza,Cancelado,0
+56,F,Cardiología,Consulta inicial,14,Domingo,10:00,Fatiga crónica,Confirmado,0
+44,F,Dermatología,Consulta inicial,8,Viernes,16:00,Dolor de cabeza,Pendiente,1
+26,F,Pediatría,Consulta inicial,1,Domingo,12:30,Chequeo anual,Confirmado,0
+32,M,General,Examen rutinario,10,Lunes,12:30,Erupción cutánea,Pendiente,1
+32,F,Neurología,Examen rutinario,18,Domingo,13:00,Problemas de visión,Cancelado,1
+43,M,Ginecología,Examen rutinario,16,Jueves,16:00,Problemas de visión,Confirmado,1
+59,F,Neurología,Vacunación,8,Sábado,10:00,Vacunación,Pendiente,1
+77,M,Ginecología,Vacunación,1,Domingo,14:00,Chequeo anual,Cancelado,0
+30,M,Pediatría,Vacunación,12,Martes,12:30,Problemas de visión,Confirmado,0
+68,F,Ginecología,Seguimiento,8,Lunes,12:00,Control prenatal,Pendiente,1
+80,F,Oftalmología,Vacunación,16,Miércoles,16:00,Control prenatal,Confirmado,1
+49,F,Oftalmología,Examen rutinario,18,Martes,08:00,Fatiga crónica,Pendiente,1
+56,F,Oftalmología,Examen rutinario,4,Lunes,09:30,Dolor de cabeza,Cancelado,0
+66,M,General,Seguimiento,6,Viernes,09:30,Vacunación,Cancelado,1
+69,F,General,Seguimiento,12,Miércoles,16:30,Dolor abdominal,Confirmado,1
+78,F,Cardiología,Vacunación,9,Viernes,12:00,Erupción cutánea,Confirmado,1
+49,F,General,Emergencia,15,Sábado,16:30,Dolor de cabeza,Pendiente,1
+21,M,Pediatría,Seguimiento,16,Lunes,14:30,Chequeo anual,Cancelado,0
+47,M,Neurología,Consulta inicial,12,Viernes,15:00,Problemas de visión,Pendiente,0
+54,F,Neurología,Examen rutinario,14,Sábado,10:30,Dolor de cabeza,Cancelado,1
+40,M,Cardiología,Consulta inicial,13,Lunes,12:30,Dolor abdominal,Confirmado,1
+56,F,General,Examen rutinario,2,Lunes,15:00,Dolor abdominal,Pendiente,0
+62,M,Ginecología,Examen rutinario,3,Viernes,09:30,Control prenatal,Pendiente,1
+32,M,Cardiología,Seguimiento,10,Lunes,16:30,Chequeo anual,Cancelado,0
+60,M,Ginecología,Seguimiento,9,Martes,16:30,Dolor de cabeza,Cancelado,0
+46,M,Ginecología,Consulta inicial,20,Lunes,16:00,Vacunación,Cancelado,1
+53,F,Dermatología,Examen rutinario,8,Jueves,13:30,Dolor de cabeza,Confirmado,0
+30,F,Neurología,Consulta inicial,10,Sábado,11:00,Control prenatal,Pendiente,1
+49,F,Oftalmología,Emergencia,19,Lunes,15:30,Fatiga crónica,Cancelado,1
+24,M,General,Consulta inicial,3,Jueves,13:00,Dolor abdominal,Confirmado,0
+76,F,Ginecología,Vacunación,5,Lunes,14:30,Chequeo anual,Cancelado,0
+68,F,Dermatología,Consulta inicial,3,Lunes,09:00,Chequeo anual,Pendiente,1
+39,F,Neurología,Vacunación,16,Viernes,17:00,Vacunación,Cancelado,0
+45,M,Oftalmología,Vacunación,17,Martes,16:30,Chequeo anual,Pendiente,1
+19,M,Ginecología,Vacunación,15,Sábado,12:30,Control prenatal,Confirmado,1
+59,M,Ginecología,Emergencia,3,Martes,10:30,Control prenatal,Confirmado,1
+62,F,Cardiología,Consulta inicial,12,Miércoles,14:00,Control prenatal,Cancelado,1
+79,F,Cardiología,Consulta inicial,9,Viernes,12:30,Chequeo anual,Pendiente,0
+74,F,Neurología,Emergencia,12,Viernes,16:30,Chequeo anual,Pendiente,0
+70,M,Oftalmología,Examen rutinario,15,Martes,17:30,Control prenatal,Pendiente,0
+23,M,Ginecología,Seguimiento,2,Domingo,15:30,Chequeo anual,Cancelado,1
+45,F,Neurología,Consulta inicial,18,Viernes,10:30,Erupción cutánea,Pendiente,1
+45,M,Neurología,Seguimiento,20,Martes,14:00,Chequeo anual,Pendiente,0
+61,M,Pediatría,Emergencia,12,Viernes,09:30,Erupción cutánea,Pendiente,0
+61,M,General,Examen rutinario,4,Lunes,14:30,Dolor abdominal,Pendiente,1
+37,M,Cardiología,Examen rutinario,16,Martes,08:00,Dolor de cabeza,Cancelado,1
+47,F,Oftalmología,Examen rutinario,16,Martes,17:30,Problemas de visión,Cancelado,1
+79,M,Ginecología,Emergencia,1,Jueves,10:00,Erupción cutánea,Pendiente,1
+28,M,Neurología,Vacunación,2,Viernes,11:30,Erupción cutánea,Pendiente,1
+75,M,Ginecología,Vacunación,3,Viernes,13:30,Chequeo anual,Confirmado,1
+72,M,Pediatría,Seguimiento,20,Martes,08:30,Problemas de visión,Confirmado,1
+45,F,Oftalmología,Vacunación,17,Lunes,13:30,Fatiga crónica,Pendiente,1
+42,F,Neurología,Vacunación,20,Lunes,10:00,Problemas de visión,Pendiente,1
+56,M,Ginecología,Examen rutinario,1,Sábado,18:30,Dolor abdominal,Confirmado,0
+79,M,Cardiología,Examen rutinario,20,Lunes,10:00,Erupción cutánea,Confirmado,0
+50,M,General,Seguimiento,6,Viernes,14:00,Chequeo anual,Pendiente,1
+18,M,Pediatría,Consulta inicial,15,Domingo,12:00,Control prenatal,Cancelado,1
+74,M,Oftalmología,Seguimiento,14,Jueves,12:30,Problemas de visión,Cancelado,1
+44,M,Pediatría,Seguimiento,20,Martes,08:00,Chequeo anual,Pendiente,0
+79,F,Cardiología,Emergencia,15,Miércoles,09:00,Vacunación,Pendiente,1
+74,M,Oftalmología,Emergencia,14,Jueves,16:30,Fatiga crónica,Confirmado,1
+69,F,Pediatría,Seguimiento,5,Domingo,13:30,Control prenatal,Confirmado,0
+30,F,Dermatología,Seguimiento,6,Miércoles,09:00,Vacunación,Cancelado,1
+58,M,Cardiología,Seguimiento,17,Jueves,12:00,Vacunación,Pendiente,1
+20,F,Cardiología,Vacunación,11,Lunes,08:30,Problemas de visión,Confirmado,1
+56,F,Cardiología,Emergencia,16,Viernes,09:00,Vacunación,Cancelado,1
+23,F,Dermatología,Seguimiento,12,Domingo,14:30,Dolor abdominal,Cancelado,1
+25,F,Dermatología,Examen rutinario,15,Miércoles,09:30,Dolor abdominal,Cancelado,1
+44,F,Ginecología,Examen rutinario,4,Domingo,17:00,Problemas de visión,Confirmado,1
+26,F,Neurología,Vacunación,18,Jueves,14:00,Chequeo anual,Confirmado,1
+79,M,General,Vacunación,3,Viernes,11:00,Dolor de cabeza,Pendiente,1
+54,F,Pediatría,Consulta inicial,8,Domingo,13:30,Chequeo anual,Pendiente,1
+50,F,Ginecología,Consulta inicial,3,Miércoles,09:00,Chequeo anual,Cancelado,0
+68,F,Pediatría,Consulta inicial,8,Martes,12:00,Chequeo anual,Cancelado,1
+59,M,General,Vacunación,18,Jueves,08:30,Chequeo anual,Confirmado,1
+61,F,Neurología,Vacunación,10,Martes,18:30,Control prenatal,Confirmado,1
+41,M,Dermatología,Vacunación,20,Lunes,12:00,Dolor de cabeza,Pendiente,1
+32,F,Neurología,Examen rutinario,17,Martes,13:30,Control prenatal,Pendiente,0
+76,M,Dermatología,Vacunación,8,Martes,13:30,Vacunación,Pendiente,1
+71,M,General,Examen rutinario,11,Sábado,15:00,Fatiga crónica,Confirmado,0
+49,F,Neurología,Consulta inicial,5,Jueves,08:30,Chequeo anual,Cancelado,0
+49,F,Ginecología,Consulta inicial,13,Lunes,16:30,Fatiga crónica,Pendiente,1
+41,M,Oftalmología,Consulta inicial,5,Martes,14:00,Dolor abdominal,Pendiente,0
+58,F,Ginecología,Seguimiento,13,Viernes,14:30,Problemas de visión,Confirmado,1
+69,M,Pediatría,Seguimiento,6,Miércoles,10:00,Problemas de visión,Pendiente,1
+66,M,Ginecología,Emergencia,5,Martes,12:30,Control prenatal,Cancelado,1
+79,M,General,Emergencia,9,Lunes,13:30,Control prenatal,Confirmado,1
+66,M,Cardiología,Emergencia,16,Martes,12:30,Dolor abdominal,Pendiente,0
+75,M,Pediatría,Seguimiento,2,Miércoles,13:00,Chequeo anual,Pendiente,0
+69,F,Neurología,Seguimiento,1,Lunes,08:30,Fatiga crónica,Confirmado,1
+29,M,Pediatría,Emergencia,8,Jueves,10:00,Erupción cutánea,Confirmado,1
+79,M,Oftalmología,Emergencia,19,Lunes,11:00,Fatiga crónica,Pendiente,1
+56,F,Dermatología,Vacunación,11,Jueves,10:30,Dolor de cabeza,Cancelado,1
+19,M,Neurología,Emergencia,12,Lunes,18:30,Vacunación,Confirmado,0
+20,F,Pediatría,Vacunación,12,Domingo,09:00,Problemas de visión,Cancelado,1
+66,F,Neurología,Examen rutinario,7,Miércoles,14:00,Vacunación,Pendiente,1
+54,F,Neurología,Seguimiento,13,Miércoles,09:00,Dolor de cabeza,Cancelado,0
+66,M,Neurología,Emergencia,8,Lunes,18:00,Control prenatal,Pendiente,0
+73,M,Dermatología,Seguimiento,9,Domingo,10:30,Fatiga crónica,Pendiente,0
+34,M,General,Seguimiento,7,Martes,13:00,Problemas de visión,Pendiente,0
+76,F,Ginecología,Seguimiento,15,Miércoles,16:00,Vacunación,Pendiente,1
+66,M,Neurología,Examen rutinario,2,Jueves,12:30,Erupción cutánea,Cancelado,0
+19,F,Cardiología,Consulta inicial,20,Jueves,13:30,Control prenatal,Pendiente,0
+19,M,General,Emergencia,12,Viernes,16:00,Dolor de cabeza,Pendiente,0
+45,F,Oftalmología,Consulta inicial,1,Sábado,09:30,Erupción cutánea,Cancelado,1
+71,M,Dermatología,Consulta inicial,8,Domingo,08:30,Vacunación,Confirmado,1
+40,M,Pediatría,Consulta inicial,5,Sábado,13:00,Erupción cutánea,Cancelado,0
+54,M,Dermatología,Seguimiento,15,Sábado,11:00,Fatiga crónica,Cancelado,1
+49,F,Pediatría,Vacunación,1,Jueves,08:30,Chequeo anual,Cancelado,0
+50,F,Dermatología,Seguimiento,1,Viernes,16:30,Erupción cutánea,Pendiente,1
+18,M,Pediatría,Seguimiento,10,Sábado,18:00,Control prenatal,Pendiente,0
+36,M,Neurología,Consulta inicial,10,Sábado,09:30,Dolor de cabeza,Pendiente,1
+79,F,Ginecología,Seguimiento,15,Lunes,11:30,Vacunación,Confirmado,1
+19,F,Pediatría,Consulta inicial,17,Lunes,17:30,Fatiga crónica,Pendiente,1
+70,F,Pediatría,Vacunación,6,Lunes,14:30,Chequeo anual,Confirmado,0
+61,M,Cardiología,Emergencia,3,Martes,13:30,Chequeo anual,Pendiente,1
+43,F,Pediatría,Consulta inicial,13,Sábado,18:30,Dolor de cabeza,Cancelado,1
+49,M,Cardiología,Vacunación,16,Martes,18:00,Dolor abdominal,Pendiente,0
+23,F,Oftalmología,Emergencia,8,Viernes,16:30,Fatiga crónica,Confirmado,1
+49,M,Neurología,Examen rutinario,15,Domingo,13:00,Fatiga crónica,Confirmado,0
+72,F,Cardiología,Consulta inicial,17,Jueves,11:30,Problemas de visión,Pendiente,0
+21,F,Ginecología,Consulta inicial,17,Sábado,08:30,Dolor de cabeza,Cancelado,0
+72,F,General,Examen rutinario,13,Jueves,15:00,Chequeo anual,Pendiente,1
+28,F,Neurología,Examen rutinario,17,Domingo,12:00,Chequeo anual,Pendiente,1
+73,F,Cardiología,Consulta inicial,6,Lunes,17:00,Erupción cutánea,Pendiente,1
+76,M,Neurología,Examen rutinario,17,Sábado,17:30,Dolor de cabeza,Cancelado,0
+34,F,Neurología,Seguimiento,16,Miércoles,11:30,Dolor abdominal,Confirmado,1
+80,F,Neurología,Emergencia,14,Martes,17:00,Problemas de visión,Cancelado,0
+55,F,Oftalmología,Emergencia,13,Martes,10:00,Vacunación,Confirmado,1
+41,M,Ginecología,Emergencia,6,Sábado,13:00,Dolor de cabeza,Confirmado,1
+22,F,Dermatología,Seguimiento,3,Domingo,15:00,Problemas de visión,Confirmado,0
+69,M,Dermatología,Examen rutinario,14,Lunes,11:30,Fatiga crónica,Cancelado,1
+51,F,Cardiología,Vacunación,14,Martes,17:00,Problemas de visión,Pendiente,1
+23,F,Neurología,Examen rutinario,15,Lunes,11:30,Erupción cutánea,Pendiente,1
+39,M,Cardiología,Consulta inicial,8,Viernes,17:00,Control prenatal,Pendiente,1
+28,F,Oftalmología,Emergencia,15,Jueves,16:30,Chequeo anual,Pendiente,1
+80,M,Oftalmología,Examen rutinario,13,Domingo,12:30,Erupción cutánea,Pendiente,1
+65,M,Pediatría,Vacunación,17,Miércoles,11:00,Vacunación,Cancelado,1
+33,F,Oftalmología,Consulta inicial,3,Jueves,12:00,Dolor de cabeza,Cancelado,0
+50,M,Pediatría,Seguimiento,6,Jueves,08:00,Erupción cutánea,Cancelado,1
+26,F,Ginecología,Seguimiento,5,Viernes,17:00,Chequeo anual,Cancelado,1
+77,F,Cardiología,Vacunación,17,Martes,10:00,Control prenatal,Cancelado,0
+76,M,General,Consulta inicial,2,Miércoles,17:00,Erupción cutánea,Cancelado,0
+23,M,Ginecología,Emergencia,15,Martes,08:00,Control prenatal,Cancelado,1
+33,M,Oftalmología,Examen rutinario,5,Sábado,15:00,Erupción cutánea,Pendiente,1
+46,M,Ginecología,Consulta inicial,20,Jueves,15:30,Chequeo anual,Confirmado,1
+20,F,Ginecología,Seguimiento,6,Sábado,11:00,Dolor abdominal,Cancelado,0
+37,F,Ginecología,Vacunación,6,Lunes,13:30,Problemas de visión,Confirmado,1
+77,M,Oftalmología,Vacunación,18,Jueves,11:30,Dolor de cabeza,Cancelado,0
+76,F,General,Examen rutinario,18,Martes,10:00,Dolor de cabeza,Cancelado,1
+53,F,Neurología,Vacunación,4,Jueves,12:30,Dolor de cabeza,Pendiente,1
+36,F,Ginecología,Vacunación,17,Lunes,18:00,Chequeo anual,Confirmado,0
+43,F,Pediatría,Consulta inicial,14,Viernes,10:00,Fatiga crónica,Pendiente,1
+20,M,Oftalmología,Emergencia,14,Sábado,16:00,Dolor abdominal,Pendiente,1
+80,M,Ginecología,Examen rutinario,13,Sábado,10:00,Vacunación,Confirmado,1
+36,F,General,Consulta inicial,7,Martes,18:30,Control prenatal,Pendiente,1
+37,M,Neurología,Emergencia,12,Jueves,15:00,Chequeo anual,Cancelado,1
+49,M,Oftalmología,Consulta inicial,15,Martes,14:00,Fatiga crónica,Cancelado,1
+24,M,Dermatología,Consulta inicial,19,Viernes,08:00,Vacunación,Cancelado,0
+69,F,Neurología,Vacunación,11,Jueves,13:00,Control prenatal,Cancelado,0
+58,F,Pediatría,Emergencia,15,Jueves,08:00,Control prenatal,Cancelado,0
+50,F,Ginecología,Examen rutinario,12,Martes,13:00,Dolor abdominal,Pendiente,1
+57,M,General,Examen rutinario,3,Martes,16:30,Problemas de visión,Pendiente,1
+56,F,Dermatología,Emergencia,17,Lunes,16:30,Dolor de cabeza,Cancelado,1
+35,F,General,Vacunación,3,Domingo,18:00,Erupción cutánea,Cancelado,1
+57,M,Dermatología,Seguimiento,19,Domingo,15:30,Vacunación,Pendiente,1
+18,F,Oftalmología,Consulta inicial,20,Viernes,14:00,Chequeo anual,Confirmado,1
+28,F,Dermatología,Vacunación,4,Domingo,11:00,Vacunación,Pendiente,1
+45,M,Pediatría,Emergencia,3,Lunes,08:00,Problemas de visión,Pendiente,1
+74,M,Pediatría,Consulta inicial,16,Sábado,15:30,Dolor de cabeza,Pendiente,1
+42,M,Cardiología,Examen rutinario,12,Jueves,08:00,Vacunación,Pendiente,0
+67,F,Pediatría,Seguimiento,8,Martes,16:00,Problemas de visión,Pendiente,1
+40,F,Neurología,Examen rutinario,17,Jueves,10:30,Chequeo anual,Confirmado,0
+48,F,Dermatología,Emergencia,7,Jueves,08:30,Dolor abdominal,Cancelado,0
+47,M,Pediatría,Consulta inicial,11,Miércoles,16:00,Fatiga crónica,Cancelado,1
+59,M,Oftalmología,Emergencia,18,Sábado,10:30,Control prenatal,Confirmado,1
+52,F,General,Consulta inicial,1,Miércoles,14:30,Chequeo anual,Cancelado,1
+24,F,General,Vacunación,3,Domingo,16:30,Dolor de cabeza,Cancelado,1
+77,M,Cardiología,Seguimiento,4,Jueves,10:30,Control prenatal,Cancelado,1
+33,M,General,Vacunación,13,Martes,12:30,Fatiga crónica,Confirmado,0
+43,M,Dermatología,Vacunación,6,Jueves,16:30,Chequeo anual,Confirmado,1
+65,M,Cardiología,Emergencia,14,Sábado,12:00,Erupción cutánea,Cancelado,1
+74,F,Dermatología,Seguimiento,5,Miércoles,11:30,Chequeo anual,Cancelado,1
+69,M,Oftalmología,Consulta inicial,16,Martes,12:30,Chequeo anual,Cancelado,1
+77,F,Cardiología,Consulta inicial,15,Jueves,16:00,Erupción cutánea,Pendiente,1
+66,F,Ginecología,Examen rutinario,15,Viernes,10:30,Chequeo anual,Pendiente,0
+19,F,Neurología,Consulta inicial,4,Sábado,14:30,Control prenatal,Pendiente,1
+18,M,Neurología,Emergencia,8,Sábado,18:30,Dolor de cabeza,Confirmado,1
+65,M,Dermatología,Vacunación,16,Viernes,18:30,Fatiga crónica,Cancelado,1
+79,M,General,Vacunación,16,Jueves,10:30,Problemas de visión,Confirmado,0
+29,M,Ginecología,Vacunación,4,Sábado,11:00,Vacunación,Confirmado,1
+22,F,Cardiología,Seguimiento,13,Martes,13:30,Erupción cutánea,Confirmado,1
+54,M,Ginecología,Consulta inicial,13,Jueves,09:00,Dolor abdominal,Cancelado,0
+49,M,Ginecología,Emergencia,2,Jueves,14:30,Erupción cutánea,Pendiente,1
+76,F,General,Seguimiento,3,Miércoles,18:30,Fatiga crónica,Cancelado,0
+72,M,Cardiología,Examen rutinario,8,Sábado,17:00,Vacunación,Cancelado,1
+26,F,Oftalmología,Emergencia,15,Sábado,15:30,Vacunación,Confirmado,1
+58,F,General,Emergencia,11,Viernes,11:00,Dolor abdominal,Confirmado,1
+52,F,Ginecología,Emergencia,9,Miércoles,11:30,Fatiga crónica,Confirmado,1
+36,F,Ginecología,Vacunación,7,Domingo,16:30,Control prenatal,Pendiente,0
+65,F,Oftalmología,Emergencia,13,Miércoles,14:00,Dolor de cabeza,Pendiente,1
+33,F,Ginecología,Consulta inicial,2,Sábado,18:00,Dolor abdominal,Pendiente,1
+20,F,Ginecología,Emergencia,8,Jueves,12:00,Dolor de cabeza,Cancelado,0
+37,F,Ginecología,Vacunación,7,Miércoles,12:30,Control prenatal,Confirmado,1
+41,M,Neurología,Emergencia,12,Viernes,18:00,Vacunación,Cancelado,1
+71,M,General,Examen rutinario,19,Miércoles,12:00,Dolor de cabeza,Pendiente,0
+73,M,Pediatría,Examen rutinario,7,Viernes,15:00,Control prenatal,Confirmado,0
+50,M,General,Vacunación,10,Domingo,17:30,Control prenatal,Pendiente,0
+41,F,Oftalmología,Consulta inicial,16,Miércoles,08:30,Problemas de visión,Confirmado,1
+69,M,Ginecología,Consulta inicial,3,Viernes,14:00,Dolor abdominal,Confirmado,1
+28,F,General,Seguimiento,10,Miércoles,08:30,Problemas de visión,Cancelado,1
+66,M,Neurología,Vacunación,6,Domingo,17:00,Erupción cutánea,Cancelado,1
+25,M,Oftalmología,Emergencia,18,Miércoles,08:30,Vacunación,Pendiente,1
+53,M,Dermatología,Vacunación,18,Martes,09:00,Dolor abdominal,Cancelado,1
+55,F,General,Seguimiento,5,Viernes,10:30,Vacunación,Cancelado,0
+57,M,Dermatología,Vacunación,7,Domingo,09:00,Problemas de visión,Cancelado,1
+37,F,Ginecología,Vacunación,2,Viernes,12:30,Fatiga crónica,Confirmado,1
+79,F,Neurología,Seguimiento,11,Viernes,10:30,Control prenatal,Cancelado,1
+52,M,Neurología,Consulta inicial,13,Lunes,15:30,Vacunación,Pendiente,1
+65,M,General,Emergencia,5,Domingo,16:00,Dolor abdominal,Confirmado,1
+79,M,Oftalmología,Seguimiento,6,Miércoles,17:00,Erupción cutánea,Confirmado,1
+42,F,Oftalmología,Examen rutinario,14,Viernes,09:00,Dolor abdominal,Cancelado,0
+52,M,Neurología,Consulta inicial,12,Sábado,16:30,Vacunación,Confirmado,1
+42,F,Oftalmología,Examen rutinario,4,Lunes,11:00,Dolor abdominal,Pendiente,0
+46,F,Neurología,Consulta inicial,6,Martes,12:00,Erupción cutánea,Pendiente,1
+35,M,General,Emergencia,10,Viernes,17:30,Control prenatal,Confirmado,0
+63,M,Pediatría,Emergencia,18,Viernes,13:30,Fatiga crónica,Cancelado,0
+35,F,Neurología,Vacunación,15,Lunes,10:00,Control prenatal,Cancelado,1
+19,F,Dermatología,Examen rutinario,8,Miércoles,09:00,Dolor abdominal,Confirmado,1
+71,F,Oftalmología,Consulta inicial,9,Sábado,13:00,Erupción cutánea,Pendiente,0
+52,M,Neurología,Emergencia,5,Martes,09:30,Erupción cutánea,Confirmado,1
+33,F,Neurología,Seguimiento,10,Viernes,10:00,Vacunación,Cancelado,1
+78,M,General,Emergencia,20,Miércoles,08:00,Problemas de visión,Cancelado,0
+58,F,Oftalmología,Seguimiento,6,Domingo,16:30,Dolor abdominal,Confirmado,1
+53,F,Pediatría,Consulta inicial,16,Sábado,13:30,Dolor abdominal,Pendiente,1
+50,M,General,Emergencia,3,Domingo,14:00,Dolor abdominal,Confirmado,1
+21,F,Pediatría,Emergencia,10,Sábado,12:00,Dolor abdominal,Pendiente,1
+50,M,General,Consulta inicial,11,Martes,08:30,Vacunación,Pendiente,1
+31,M,Oftalmología,Emergencia,11,Jueves,10:00,Problemas de visión,Confirmado,1
+38,F,Cardiología,Seguimiento,17,Sábado,14:00,Problemas de visión,Confirmado,0
+65,M,Oftalmología,Emergencia,4,Jueves,15:30,Dolor de cabeza,Pendiente,0
+37,M,Oftalmología,Examen rutinario,4,Domingo,15:30,Dolor abdominal,Pendiente,1
+73,F,Pediatría,Vacunación,17,Sábado,09:00,Dolor abdominal,Pendiente,1
+25,M,Pediatría,Seguimiento,9,Martes,18:30,Dolor de cabeza,Pendiente,1
+24,M,Oftalmología,Examen rutinario,19,Lunes,09:30,Problemas de visión,Cancelado,0
+20,M,Oftalmología,Consulta inicial,5,Martes,13:00,Erupción cutánea,Confirmado,0
+34,F,Oftalmología,Seguimiento,6,Martes,14:30,Erupción cutánea,Pendiente,1
+50,M,Pediatría,Vacunación,3,Lunes,09:00,Chequeo anual,Confirmado,1
+65,F,Oftalmología,Vacunación,1,Lunes,15:30,Control prenatal,Pendiente,0
+29,F,Oftalmología,Consulta inicial,20,Miércoles,18:30,Chequeo anual,Confirmado,1
+76,M,Ginecología,Consulta inicial,16,Sábado,15:00,Problemas de visión,Confirmado,1
+68,M,Cardiología,Seguimiento,11,Domingo,12:30,Fatiga crónica,Pendiente,1
+39,M,Dermatología,Emergencia,13,Miércoles,12:00,Dolor abdominal,Pendiente,1
+72,F,Cardiología,Consulta inicial,10,Lunes,13:00,Chequeo anual,Confirmado,1
+39,M,Ginecología,Emergencia,3,Jueves,15:30,Vacunación,Confirmado,1
+63,M,Dermatología,Examen rutinario,9,Domingo,12:30,Erupción cutánea,Confirmado,1
+47,M,General,Vacunación,12,Jueves,16:00,Vacunación,Cancelado,1
+55,M,Oftalmología,Emergencia,14,Martes,17:00,Dolor de cabeza,Pendiente,1
+55,M,Ginecología,Vacunación,1,Viernes,08:30,Problemas de visión,Cancelado,1
+62,F,General,Emergencia,18,Martes,08:30,Problemas de visión,Cancelado,1
+68,F,Oftalmología,Examen rutinario,17,Martes,10:30,Chequeo anual,Pendiente,1
+71,M,Pediatría,Consulta inicial,9,Viernes,17:00,Dolor abdominal,Pendiente,1
+25,M,Neurología,Examen rutinario,9,Sábado,11:30,Problemas de visión,Cancelado,1
+44,M,Ginecología,Consulta inicial,10,Lunes,09:00,Chequeo anual,Pendiente,0
+44,M,Pediatría,Consulta inicial,19,Jueves,14:30,Chequeo anual,Confirmado,0
+51,F,Ginecología,Vacunación,15,Martes,15:30,Control prenatal,Confirmado,1
+38,M,Ginecología,Examen rutinario,5,Viernes,08:00,Control prenatal,Cancelado,1
+47,F,Pediatría,Emergencia,15,Miércoles,18:00,Problemas de visión,Cancelado,1
+50,F,Dermatología,Examen rutinario,20,Martes,09:00,Chequeo anual,Pendiente,1
+45,M,Cardiología,Vacunación,2,Jueves,18:30,Dolor de cabeza,Pendiente,1
+64,F,Oftalmología,Consulta inicial,13,Lunes,16:30,Dolor de cabeza,Cancelado,1
+50,F,Ginecología,Vacunación,16,Martes,12:00,Control prenatal,Cancelado,0
+22,F,Oftalmología,Seguimiento,15,Martes,10:30,Problemas de visión,Confirmado,1
+77,F,Neurología,Seguimiento,10,Sábado,18:00,Erupción cutánea,Confirmado,1
+78,M,Pediatría,Emergencia,14,Viernes,08:00,Dolor abdominal,Pendiente,0
+65,M,Oftalmología,Vacunación,10,Miércoles,18:00,Fatiga crónica,Confirmado,1
+36,F,Pediatría,Emergencia,14,Miércoles,12:30,Erupción cutánea,Pendiente,1
+21,M,Oftalmología,Emergencia,9,Domingo,10:30,Dolor de cabeza,Pendiente,0
+52,M,Cardiología,Seguimiento,14,Lunes,13:30,Dolor de cabeza,Pendiente,0
+66,M,Cardiología,Emergencia,3,Domingo,09:30,Erupción cutánea,Confirmado,1
+34,M,Cardiología,Seguimiento,20,Jueves,14:00,Control prenatal,Cancelado,1
+61,M,Cardiología,Consulta inicial,16,Lunes,16:00,Control prenatal,Cancelado,0
+45,F,Cardiología,Vacunación,2,Martes,11:30,Problemas de visión,Confirmado,0
+47,M,Cardiología,Emergencia,10,Martes,17:30,Control prenatal,Cancelado,1
+46,M,Pediatría,Seguimiento,3,Miércoles,09:00,Vacunación,Pendiente,1
+63,M,Ginecología,Examen rutinario,11,Jueves,13:30,Fatiga crónica,Cancelado,1
+70,M,Oftalmología,Emergencia,11,Viernes,11:00,Erupción cutánea,Confirmado,0
+23,F,Cardiología,Consulta inicial,13,Jueves,13:30,Erupción cutánea,Cancelado,1
+52,F,Pediatría,Consulta inicial,7,Martes,08:30,Chequeo anual,Pendiente,1
+77,F,Pediatría,Examen rutinario,17,Viernes,14:30,Dolor de cabeza,Pendiente,1
+58,F,Pediatría,Seguimiento,2,Jueves,18:30,Erupción cutánea,Confirmado,1
+54,M,Ginecología,Emergencia,12,Jueves,10:00,Vacunación,Confirmado,1
+41,F,Oftalmología,Seguimiento,10,Viernes,12:00,Erupción cutánea,Confirmado,1
+46,M,Ginecología,Consulta inicial,18,Martes,18:00,Dolor abdominal,Pendiente,1
+66,M,Dermatología,Seguimiento,11,Jueves,13:00,Vacunación,Cancelado,1
+63,M,General,Consulta inicial,16,Viernes,10:00,Problemas de visión,Cancelado,1
+70,M,Pediatría,Seguimiento,17,Sábado,09:00,Dolor abdominal,Confirmado,1
+48,M,Dermatología,Examen rutinario,19,Sábado,16:00,Dolor abdominal,Cancelado,1
+52,F,Neurología,Vacunación,18,Martes,08:30,Erupción cutánea,Cancelado,0
+77,F,Cardiología,Examen rutinario,3,Viernes,08:00,Control prenatal,Confirmado,1
+50,F,General,Examen rutinario,16,Sábado,11:00,Erupción cutánea,Confirmado,0
+69,F,Cardiología,Vacunación,6,Viernes,14:30,Vacunación,Pendiente,1
+80,M,Ginecología,Vacunación,12,Jueves,10:00,Problemas de visión,Pendiente,0
+78,F,General,Emergencia,11,Martes,17:00,Dolor de cabeza,Pendiente,1
+38,M,Oftalmología,Emergencia,15,Sábado,13:00,Fatiga crónica,Pendiente,1
+49,F,Dermatología,Examen rutinario,15,Domingo,08:30,Control prenatal,Cancelado,1
+40,M,Oftalmología,Examen rutinario,16,Jueves,11:30,Vacunación,Cancelado,1
+50,M,Ginecología,Consulta inicial,10,Domingo,12:00,Dolor de cabeza,Pendiente,1
+20,F,Cardiología,Consulta inicial,12,Domingo,09:00,Vacunación,Pendiente,1
+35,M,General,Emergencia,13,Lunes,08:30,Control prenatal,Confirmado,1
+42,M,Oftalmología,Emergencia,4,Lunes,11:00,Dolor de cabeza,Cancelado,0
+59,F,Oftalmología,Consulta inicial,7,Martes,10:00,Control prenatal,Cancelado,1
+48,M,Cardiología,Consulta inicial,2,Sábado,18:00,Vacunación,Pendiente,1
+71,F,General,Seguimiento,15,Sábado,10:00,Dolor abdominal,Cancelado,0
+75,F,Dermatología,Seguimiento,8,Sábado,17:30,Fatiga crónica,Confirmado,1
+20,F,Cardiología,Consulta inicial,7,Viernes,14:00,Chequeo anual,Confirmado,1
+57,M,Oftalmología,Seguimiento,15,Jueves,18:00,Fatiga crónica,Cancelado,1
+63,M,Dermatología,Vacunación,14,Sábado,17:30,Dolor abdominal,Pendiente,1
+41,M,Dermatología,Emergencia,8,Jueves,10:30,Control prenatal,Cancelado,1
+67,F,Cardiología,Emergencia,12,Martes,17:30,Fatiga crónica,Confirmado,0
+49,M,Oftalmología,Consulta inicial,13,Domingo,16:30,Control prenatal,Pendiente,0
+64,F,Ginecología,Examen rutinario,11,Sábado,08:30,Control prenatal,Cancelado,1
+39,F,Oftalmología,Consulta inicial,17,Martes,10:30,Dolor de cabeza,Pendiente,0
+40,M,Pediatría,Seguimiento,17,Sábado,12:00,Problemas de visión,Pendiente,0
+19,F,General,Examen rutinario,4,Lunes,09:00,Control prenatal,Confirmado,1
+80,M,Neurología,Seguimiento,8,Miércoles,08:00,Fatiga crónica,Pendiente,1
+44,M,Ginecología,Vacunación,5,Martes,08:00,Fatiga crónica,Cancelado,1
+59,M,Dermatología,Seguimiento,16,Sábado,17:00,Fatiga crónica,Pendiente,1
+19,M,Ginecología,Vacunación,4,Miércoles,10:00,Dolor abdominal,Pendiente,1
+43,M,General,Vacunación,15,Martes,14:00,Chequeo anual,Cancelado,1
+34,F,Dermatología,Seguimiento,12,Viernes,17:00,Control prenatal,Confirmado,1
+57,F,General,Seguimiento,5,Sábado,13:30,Erupción cutánea,Confirmado,1
+50,F,Dermatología,Vacunación,16,Viernes,15:30,Control prenatal,Cancelado,1
+26,M,Ginecología,Examen rutinario,14,Lunes,17:00,Control prenatal,Cancelado,1
+60,M,Dermatología,Vacunación,10,Sábado,09:00,Erupción cutánea,Confirmado,0
+71,M,Dermatología,Emergencia,7,Domingo,13:30,Dolor de cabeza,Pendiente,1
+65,F,Pediatría,Vacunación,13,Lunes,10:00,Control prenatal,Cancelado,1
+56,M,Oftalmología,Examen rutinario,20,Miércoles,08:30,Dolor abdominal,Pendiente,1
+46,F,Oftalmología,Emergencia,5,Martes,18:30,Vacunación,Cancelado,1
+59,F,Neurología,Consulta inicial,3,Jueves,11:00,Problemas de visión,Confirmado,1
+72,M,Neurología,Consulta inicial,15,Lunes,14:00,Fatiga crónica,Pendiente,0
+43,M,Pediatría,Examen rutinario,4,Jueves,15:00,Control prenatal,Pendiente,0
+52,F,Neurología,Vacunación,15,Jueves,18:30,Dolor de cabeza,Cancelado,1
+67,M,General,Seguimiento,14,Martes,09:00,Dolor abdominal,Pendiente,1
+42,F,Ginecología,Examen rutinario,20,Miércoles,18:00,Control prenatal,Cancelado,0
+41,M,Cardiología,Emergencia,19,Martes,17:30,Erupción cutánea,Confirmado,1
+30,M,General,Emergencia,13,Sábado,10:00,Dolor de cabeza,Pendiente,0
+77,F,Cardiología,Consulta inicial,10,Lunes,11:30,Vacunación,Cancelado,1
+75,M,Cardiología,Emergencia,5,Jueves,18:30,Chequeo anual,Pendiente,0
+24,F,Pediatría,Examen rutinario,20,Martes,08:00,Control prenatal,Cancelado,1
+74,M,General,Emergencia,20,Martes,11:30,Dolor abdominal,Cancelado,1
+53,F,Pediatría,Examen rutinario,6,Martes,16:30,Dolor de cabeza,Cancelado,1
+62,F,Dermatología,Seguimiento,4,Lunes,17:30,Erupción cutánea,Confirmado,1
+37,M,Cardiología,Consulta inicial,2,Miércoles,15:30,Dolor de cabeza,Pendiente,1
+18,F,Ginecología,Emergencia,16,Domingo,16:30,Control prenatal,Confirmado,1
+25,M,Neurología,Examen rutinario,18,Martes,17:30,Dolor de cabeza,Cancelado,1
+63,M,Ginecología,Vacunación,5,Lunes,13:30,Chequeo anual,Cancelado,1
+33,M,Neurología,Consulta inicial,4,Jueves,14:00,Dolor de cabeza,Confirmado,1
+31,F,Cardiología,Seguimiento,13,Sábado,14:00,Fatiga crónica,Confirmado,1
+29,F,Cardiología,Examen rutinario,19,Domingo,12:30,Problemas de visión,Pendiente,1
+68,M,Cardiología,Seguimiento,2,Viernes,11:00,Fatiga crónica,Cancelado,0
+40,M,Pediatría,Seguimiento,13,Domingo,14:30,Problemas de visión,Confirmado,1
+32,F,General,Emergencia,11,Domingo,15:30,Dolor de cabeza,Cancelado,0
+45,M,Neurología,Emergencia,4,Lunes,15:00,Erupción cutánea,Cancelado,0
+51,M,General,Examen rutinario,20,Viernes,13:30,Erupción cutánea,Pendiente,0
+19,F,Pediatría,Vacunación,20,Martes,12:00,Control prenatal,Pendiente,0
+49,M,Pediatría,Examen rutinario,15,Martes,11:30,Erupción cutánea,Pendiente,0
+40,F,Oftalmología,Vacunación,4,Domingo,16:30,Problemas de visión,Confirmado,1
+80,M,Ginecología,Seguimiento,9,Lunes,16:30,Dolor abdominal,Cancelado,0
+39,F,Ginecología,Consulta inicial,7,Viernes,14:00,Problemas de visión,Confirmado,1
+68,M,Dermatología,Examen rutinario,19,Martes,16:30,Fatiga crónica,Confirmado,0
+42,M,Pediatría,Examen rutinario,19,Jueves,15:00,Dolor de cabeza,Pendiente,1
+75,F,Neurología,Vacunación,6,Miércoles,09:30,Control prenatal,Cancelado,1
+80,M,Oftalmología,Seguimiento,6,Miércoles,16:00,Vacunación,Cancelado,1
+79,F,Oftalmología,Seguimiento,20,Martes,10:00,Control prenatal,Pendiente,1
+78,M,General,Vacunación,15,Viernes,18:30,Control prenatal,Cancelado,1
+39,F,Ginecología,Seguimiento,15,Sábado,15:30,Control prenatal,Pendiente,1
+75,F,Pediatría,Emergencia,20,Martes,12:00,Dolor abdominal,Confirmado,0
+75,F,Dermatología,Consulta inicial,9,Sábado,12:30,Chequeo anual,Confirmado,1
+39,F,Pediatría,Examen rutinario,4,Sábado,16:30,Fatiga crónica,Pendiente,1
+66,M,General,Consulta inicial,18,Viernes,16:00,Dolor de cabeza,Confirmado,1
+69,M,Cardiología,Examen rutinario,18,Sábado,16:30,Chequeo anual,Confirmado,1
+59,F,Pediatría,Emergencia,5,Jueves,11:00,Vacunación,Pendiente,1
+23,F,General,Seguimiento,20,Viernes,09:30,Chequeo anual,Confirmado,1
+32,F,Cardiología,Vacunación,11,Martes,10:00,Dolor de cabeza,Cancelado,1
+71,M,Cardiología,Emergencia,5,Domingo,15:30,Fatiga crónica,Confirmado,1
+60,M,Dermatología,Consulta inicial,4,Jueves,09:00,Fatiga crónica,Pendiente,0
+77,M,Neurología,Vacunación,12,Lunes,16:30,Dolor de cabeza,Cancelado,1
+54,M,Ginecología,Seguimiento,2,Miércoles,18:00,Vacunación,Cancelado,1
+50,F,Pediatría,Emergencia,13,Martes,14:30,Dolor de cabeza,Confirmado,0
+25,F,Cardiología,Vacunación,10,Martes,15:00,Vacunación,Cancelado,0
+70,F,Pediatría,Emergencia,9,Martes,16:00,Vacunación,Pendiente,1
+77,M,Neurología,Emergencia,10,Jueves,08:00,Dolor de cabeza,Cancelado,1
+61,M,Ginecología,Seguimiento,7,Lunes,18:00,Problemas de visión,Confirmado,0
+61,M,Neurología,Examen rutinario,4,Domingo,16:00,Fatiga crónica,Confirmado,1
+22,F,Ginecología,Vacunación,19,Viernes,13:00,Vacunación,Cancelado,0
+56,F,Oftalmología,Seguimiento,10,Lunes,16:00,Dolor de cabeza,Pendiente,1
+21,M,Ginecología,Emergencia,3,Jueves,14:30,Erupción cutánea,Pendiente,1
+23,F,Dermatología,Seguimiento,19,Martes,17:30,Problemas de visión,Confirmado,1
+62,M,Neurología,Examen rutinario,2,Miércoles,17:00,Fatiga crónica,Confirmado,1
+49,M,Cardiología,Vacunación,20,Martes,18:00,Vacunación,Pendiente,1
+69,F,Oftalmología,Examen rutinario,10,Viernes,11:00,Fatiga crónica,Cancelado,1
+47,M,Dermatología,Consulta inicial,2,Sábado,14:00,Problemas de visión,Cancelado,0
+64,F,Pediatría,Vacunación,2,Miércoles,16:30,Fatiga crónica,Cancelado,1
+52,M,Neurología,Examen rutinario,17,Martes,14:30,Dolor abdominal,Cancelado,1
+72,F,General,Emergencia,16,Domingo,08:00,Control prenatal,Pendiente,1
+57,F,General,Vacunación,16,Miércoles,11:00,Dolor abdominal,Confirmado,1
+69,F,Cardiología,Vacunación,14,Sábado,11:30,Problemas de visión,Confirmado,0
+33,M,Ginecología,Seguimiento,7,Lunes,16:30,Vacunación,Cancelado,0
+30,M,Cardiología,Emergencia,11,Jueves,12:00,Dolor de cabeza,Pendiente,0
+67,F,General,Consulta inicial,1,Martes,08:00,Chequeo anual,Pendiente,1
+77,F,Pediatría,Examen rutinario,11,Viernes,18:30,Dolor de cabeza,Cancelado,1
+59,M,Oftalmología,Seguimiento,4,Lunes,16:00,Fatiga crónica,Cancelado,1
+47,M,Oftalmología,Examen rutinario,7,Martes,17:00,Chequeo anual,Cancelado,1
+36,M,Neurología,Consulta inicial,15,Lunes,10:30,Chequeo anual,Confirmado,1
+34,F,Oftalmología,Consulta inicial,18,Viernes,09:00,Fatiga crónica,Cancelado,1
+73,M,Neurología,Vacunación,12,Martes,10:00,Fatiga crónica,Confirmado,0
+80,M,Neurología,Consulta inicial,17,Sábado,08:30,Vacunación,Pendiente,1
+36,F,Neurología,Examen rutinario,1,Sábado,17:30,Problemas de visión,Pendiente,0
+45,M,General,Emergencia,11,Viernes,09:30,Erupción cutánea,Confirmado,0
+75,M,General,Emergencia,1,Miércoles,12:30,Dolor de cabeza,Confirmado,1
+72,M,Ginecología,Vacunación,15,Viernes,12:30,Problemas de visión,Confirmado,1
+43,F,Dermatología,Examen rutinario,10,Miércoles,18:00,Dolor abdominal,Confirmado,1
+54,F,Neurología,Examen rutinario,7,Martes,13:00,Vacunación,Cancelado,1
+43,F,Neurología,Consulta inicial,2,Miércoles,15:30,Vacunación,Pendiente,1
+70,F,Dermatología,Examen rutinario,10,Martes,16:00,Erupción cutánea,Cancelado,1
+79,F,Cardiología,Seguimiento,4,Martes,15:30,Dolor abdominal,Confirmado,1
+40,F,Neurología,Consulta inicial,12,Domingo,11:00,Dolor de cabeza,Cancelado,1
+80,F,Ginecología,Seguimiento,19,Jueves,15:30,Control prenatal,Cancelado,1
+26,M,Oftalmología,Vacunación,11,Martes,09:00,Dolor abdominal,Pendiente,0
+29,M,Oftalmología,Emergencia,8,Miércoles,15:30,Dolor de cabeza,Cancelado,1
+70,F,Pediatría,Vacunación,18,Jueves,11:30,Chequeo anual,Pendiente,1
+18,M,Pediatría,Emergencia,11,Jueves,13:30,Fatiga crónica,Confirmado,1
+75,M,Oftalmología,Vacunación,11,Martes,09:00,Vacunación,Cancelado,1
+75,F,Oftalmología,Examen rutinario,13,Viernes,16:00,Dolor de cabeza,Confirmado,1
+18,M,General,Seguimiento,3,Viernes,18:00,Problemas de visión,Pendiente,0
+64,M,Ginecología,Emergencia,12,Sábado,16:30,Erupción cutánea,Confirmado,1
+51,M,Dermatología,Consulta inicial,3,Jueves,13:00,Fatiga crónica,Confirmado,1
+49,M,Pediatría,Seguimiento,10,Martes,09:30,Problemas de visión,Pendiente,0
+79,M,General,Consulta inicial,17,Domingo,15:30,Fatiga crónica,Confirmado,1
+71,F,General,Seguimiento,2,Viernes,16:00,Vacunación,Confirmado,1
+65,F,Dermatología,Seguimiento,17,Domingo,12:00,Dolor abdominal,Confirmado,0
+42,F,General,Vacunación,16,Martes,10:30,Control prenatal,Cancelado,1
+57,M,Ginecología,Emergencia,2,Martes,17:30,Dolor abdominal,Confirmado,1
+62,F,Oftalmología,Emergencia,20,Jueves,08:30,Dolor de cabeza,Pendiente,1
+70,M,Neurología,Seguimiento,6,Domingo,12:00,Erupción cutánea,Cancelado,1
+18,M,Dermatología,Examen rutinario,10,Sábado,18:00,Dolor abdominal,Cancelado,0
+33,M,Oftalmología,Examen rutinario,10,Jueves,10:30,Vacunación,Pendiente,0
+78,M,Oftalmología,Consulta inicial,8,Lunes,09:00,Erupción cutánea,Confirmado,1
+56,F,Cardiología,Consulta inicial,1,Domingo,17:30,Dolor de cabeza,Cancelado,1
+80,F,Dermatología,Vacunación,13,Viernes,10:30,Chequeo anual,Cancelado,1
+22,M,General,Seguimiento,9,Viernes,11:00,Dolor abdominal,Cancelado,1
+39,F,Neurología,Consulta inicial,10,Viernes,08:00,Dolor abdominal,Confirmado,1
+46,M,Dermatología,Consulta inicial,15,Miércoles,08:00,Control prenatal,Cancelado,1
+72,F,General,Seguimiento,5,Martes,10:00,Dolor de cabeza,Pendiente,0
+20,F,Oftalmología,Vacunación,16,Jueves,10:30,Problemas de visión,Confirmado,0
+29,M,Neurología,Consulta inicial,13,Viernes,14:00,Dolor abdominal,Pendiente,0
+43,F,General,Vacunación,20,Lunes,08:30,Vacunación,Pendiente,1
+33,M,Ginecología,Emergencia,18,Viernes,15:00,Dolor abdominal,Cancelado,0
+68,F,General,Vacunación,11,Sábado,15:00,Control prenatal,Cancelado,1
+54,M,Cardiología,Examen rutinario,9,Martes,14:00,Chequeo anual,Cancelado,1
+39,M,Oftalmología,Examen rutinario,16,Domingo,14:30,Control prenatal,Pendiente,1
+74,F,General,Vacunación,2,Martes,18:30,Dolor abdominal,Confirmado,1
+46,F,Pediatría,Examen rutinario,2,Domingo,11:00,Erupción cutánea,Cancelado,1
+31,M,Pediatría,Emergencia,12,Domingo,14:30,Problemas de visión,Cancelado,1
+45,F,Cardiología,Seguimiento,8,Jueves,12:30,Fatiga crónica,Pendiente,1
+22,F,Ginecología,Examen rutinario,9,Miércoles,16:00,Dolor abdominal,Confirmado,1
+64,M,Oftalmología,Examen rutinario,12,Domingo,14:30,Dolor de cabeza,Pendiente,1
+66,M,Dermatología,Vacunación,9,Domingo,11:30,Dolor abdominal,Cancelado,1
+47,F,Cardiología,Emergencia,10,Jueves,09:30,Problemas de visión,Pendiente,1
+63,M,Ginecología,Seguimiento,2,Viernes,15:30,Dolor de cabeza,Cancelado,1
+79,M,Dermatología,Vacunación,16,Sábado,14:00,Vacunación,Confirmado,1
+69,M,Pediatría,Vacunación,20,Lunes,18:30,Erupción cutánea,Pendiente,1
+22,F,Pediatría,Emergencia,7,Jueves,17:30,Dolor de cabeza,Cancelado,1
+29,F,Dermatología,Seguimiento,2,Miércoles,16:30,Control prenatal,Cancelado,1
+33,M,Cardiología,Emergencia,1,Jueves,14:30,Chequeo anual,Cancelado,1
+43,F,Pediatría,Seguimiento,19,Martes,16:30,Control prenatal,Cancelado,1
+43,M,Oftalmología,Emergencia,4,Viernes,10:00,Fatiga crónica,Pendiente,1
+65,F,Neurología,Vacunación,2,Viernes,12:00,Dolor de cabeza,Cancelado,1
+38,M,General,Vacunación,14,Domingo,09:00,Vacunación,Pendiente,1
+56,M,Dermatología,Consulta inicial,2,Viernes,11:30,Dolor abdominal,Cancelado,0
+53,F,Dermatología,Examen rutinario,15,Viernes,17:30,Erupción cutánea,Pendiente,1
+50,M,Pediatría,Emergencia,12,Viernes,18:30,Dolor de cabeza,Pendiente,1
+79,F,Cardiología,Consulta inicial,5,Viernes,12:30,Control prenatal,Cancelado,0
+47,F,Oftalmología,Examen rutinario,20,Lunes,18:30,Dolor de cabeza,Cancelado,1
+54,M,Cardiología,Emergencia,7,Miércoles,17:00,Dolor de cabeza,Cancelado,1
+40,M,Ginecología,Seguimiento,10,Domingo,18:00,Dolor de cabeza,Cancelado,1
+75,F,Ginecología,Examen rutinario,14,Viernes,09:00,Vacunación,Confirmado,1
+27,M,Neurología,Vacunación,14,Domingo,13:00,Erupción cutánea,Cancelado,1
+71,M,Pediatría,Consulta inicial,5,Miércoles,13:00,Problemas de visión,Cancelado,1
+22,M,Pediatría,Examen rutinario,18,Sábado,16:00,Problemas de visión,Cancelado,1
+53,M,Pediatría,Examen rutinario,14,Viernes,15:30,Dolor de cabeza,Pendiente,0
+51,M,Neurología,Vacunación,2,Domingo,11:00,Vacunación,Cancelado,1
+69,F,Ginecología,Emergencia,12,Jueves,09:30,Vacunación,Pendiente,1
+48,F,Cardiología,Seguimiento,6,Domingo,17:00,Fatiga crónica,Pendiente,1
+27,M,Neurología,Vacunación,4,Viernes,13:30,Dolor de cabeza,Pendiente,1
+75,M,Neurología,Seguimiento,13,Martes,15:00,Control prenatal,Pendiente,1
+36,M,Cardiología,Emergencia,4,Lunes,13:00,Control prenatal,Confirmado,1
+75,F,Pediatría,Examen rutinario,14,Jueves,10:00,Chequeo anual,Cancelado,1
+49,M,Oftalmología,Seguimiento,16,Jueves,10:00,Erupción cutánea,Pendiente,1
+18,F,Cardiología,Consulta inicial,4,Martes,15:00,Dolor de cabeza,Cancelado,1
+73,F,Ginecología,Consulta inicial,1,Viernes,16:30,Chequeo anual,Pendiente,1
+22,F,Dermatología,Vacunación,13,Lunes,13:00,Control prenatal,Confirmado,0
+62,M,Dermatología,Emergencia,4,Jueves,13:30,Control prenatal,Pendiente,1
+21,F,General,Vacunación,20,Lunes,08:30,Dolor de cabeza,Cancelado,0
+33,M,General,Vacunación,18,Jueves,17:30,Chequeo anual,Cancelado,0
+41,F,Neurología,Vacunación,6,Viernes,15:00,Chequeo anual,Confirmado,1
+33,M,Dermatología,Consulta inicial,3,Sábado,17:30,Dolor de cabeza,Cancelado,1
+72,F,Oftalmología,Consulta inicial,13,Jueves,09:30,Erupción cutánea,Cancelado,1
+19,M,Pediatría,Vacunación,16,Sábado,18:30,Fatiga crónica,Pendiente,1
+66,F,Ginecología,Consulta inicial,5,Jueves,16:30,Chequeo anual,Cancelado,1
+45,M,General,Emergencia,4,Miércoles,10:30,Fatiga crónica,Pendiente,1
+49,M,Oftalmología,Vacunación,8,Viernes,17:00,Dolor abdominal,Confirmado,1
+44,M,Ginecología,Consulta inicial,19,Martes,13:00,Erupción cutánea,Cancelado,1
+37,M,Ginecología,Seguimiento,14,Sábado,08:30,Control prenatal,Pendiente,1
+41,F,Pediatría,Vacunación,7,Martes,11:30,Problemas de visión,Cancelado,1
+29,F,Neurología,Vacunación,14,Viernes,13:00,Erupción cutánea,Pendiente,1
+67,M,Dermatología,Emergencia,6,Domingo,10:00,Fatiga crónica,Confirmado,0
+52,F,Pediatría,Examen rutinario,12,Martes,16:30,Fatiga crónica,Pendiente,0
+77,M,Oftalmología,Examen rutinario,16,Viernes,16:30,Fatiga crónica,Cancelado,0
+50,M,Neurología,Emergencia,17,Martes,14:30,Vacunación,Pendiente,0
+50,F,Oftalmología,Emergencia,13,Sábado,18:30,Erupción cutánea,Cancelado,1
+78,M,Neurología,Emergencia,14,Miércoles,12:30,Chequeo anual,Confirmado,0
+68,M,General,Examen rutinario,7,Martes,09:00,Chequeo anual,Pendiente,0
+60,F,Oftalmología,Emergencia,14,Sábado,12:00,Vacunación,Cancelado,0
+54,M,Pediatría,Consulta inicial,15,Jueves,09:00,Chequeo anual,Cancelado,0
+29,M,Neurología,Vacunación,12,Viernes,13:00,Vacunación,Cancelado,0
+20,M,Neurología,Vacunación,17,Lunes,13:30,Fatiga crónica,Pendiente,1
+18,M,Ginecología,Seguimiento,9,Domingo,13:30,Dolor de cabeza,Pendiente,1
+50,F,Ginecología,Seguimiento,15,Lunes,09:00,Erupción cutánea,Pendiente,0
+57,F,Cardiología,Vacunación,12,Viernes,18:00,Dolor abdominal,Confirmado,1
+27,F,Oftalmología,Consulta inicial,2,Miércoles,11:00,Fatiga crónica,Cancelado,1
+60,M,Ginecología,Examen rutinario,5,Martes,14:30,Dolor abdominal,Cancelado,0
+61,M,Cardiología,Examen rutinario,13,Miércoles,13:00,Control prenatal,Confirmado,1
+46,F,General,Consulta inicial,20,Lunes,11:00,Fatiga crónica,Confirmado,1
+30,M,General,Examen rutinario,8,Domingo,18:00,Problemas de visión,Pendiente,1
+29,M,Ginecología,Emergencia,14,Sábado,12:30,Chequeo anual,Pendiente,1
+48,M,Oftalmología,Vacunación,15,Domingo,13:00,Problemas de visión,Pendiente,0
+63,M,Neurología,Vacunación,11,Viernes,15:00,Dolor de cabeza,Pendiente,1
+19,F,Dermatología,Consulta inicial,1,Viernes,17:00,Dolor abdominal,Pendiente,1
+78,F,Oftalmología,Examen rutinario,3,Miércoles,15:30,Erupción cutánea,Pendiente,1
+68,F,Pediatría,Seguimiento,17,Sábado,18:30,Fatiga crónica,Confirmado,0
+67,M,General,Seguimiento,19,Miércoles,18:00,Erupción cutánea,Confirmado,1
+52,F,Ginecología,Examen rutinario,14,Martes,17:30,Dolor de cabeza,Confirmado,1
+40,F,Ginecología,Seguimiento,8,Jueves,13:30,Dolor de cabeza,Cancelado,1
+34,M,Neurología,Consulta inicial,13,Sábado,16:30,Chequeo anual,Cancelado,0
+43,M,Pediatría,Consulta inicial,20,Jueves,14:00,Dolor de cabeza,Pendiente,1
+25,F,Neurología,Examen rutinario,3,Domingo,10:00,Fatiga crónica,Confirmado,1
+46,F,Pediatría,Seguimiento,5,Martes,09:30,Fatiga crónica,Cancelado,1
+43,F,Dermatología,Consulta inicial,9,Jueves,14:30,Erupción cutánea,Cancelado,1
+27,F,General,Consulta inicial,6,Lunes,11:30,Erupción cutánea,Confirmado,1
+43,M,Ginecología,Emergencia,2,Domingo,12:00,Dolor abdominal,Cancelado,1
+79,F,Ginecología,Emergencia,13,Jueves,17:00,Fatiga crónica,Cancelado,1
+51,F,Dermatología,Consulta inicial,5,Martes,09:00,Problemas de visión,Confirmado,1
+68,M,Cardiología,Examen rutinario,8,Jueves,10:00,Dolor abdominal,Cancelado,1
+58,F,General,Vacunación,1,Viernes,18:00,Chequeo anual,Confirmado,0
+24,M,Neurología,Vacunación,20,Miércoles,16:30,Dolor abdominal,Cancelado,1
+21,M,Dermatología,Consulta inicial,12,Lunes,08:00,Vacunación,Confirmado,1
+75,M,Neurología,Consulta inicial,11,Viernes,11:30,Erupción cutánea,Cancelado,1
+70,F,Oftalmología,Consulta inicial,7,Viernes,17:00,Problemas de visión,Cancelado,1
+67,F,Ginecología,Examen rutinario,15,Martes,16:00,Erupción cutánea,Confirmado,1
+62,M,Neurología,Emergencia,11,Miércoles,16:00,Vacunación,Cancelado,1
+28,F,Pediatría,Consulta inicial,16,Miércoles,13:00,Vacunación,Confirmado,0
+46,F,Neurología,Consulta inicial,3,Sábado,08:30,Control prenatal,Confirmado,1
+73,M,Oftalmología,Seguimiento,20,Domingo,10:30,Fatiga crónica,Cancelado,0
+53,M,General,Examen rutinario,14,Lunes,18:30,Chequeo anual,Pendiente,1
+42,F,Ginecología,Consulta inicial,3,Domingo,14:30,Dolor de cabeza,Cancelado,1
+38,M,Dermatología,Seguimiento,1,Martes,09:00,Vacunación,Pendiente,1
+78,F,Oftalmología,Vacunación,15,Lunes,13:30,Dolor abdominal,Pendiente,1
+74,F,Ginecología,Consulta inicial,1,Sábado,09:30,Dolor de cabeza,Cancelado,0
+53,F,Neurología,Consulta inicial,17,Jueves,13:30,Dolor abdominal,Pendiente,0
+27,F,General,Seguimiento,2,Viernes,14:00,Erupción cutánea,Confirmado,1
+54,M,Cardiología,Examen rutinario,20,Lunes,08:30,Dolor abdominal,Confirmado,1
+26,M,General,Consulta inicial,6,Domingo,08:30,Dolor de cabeza,Pendiente,0
+41,M,Cardiología,Vacunación,8,Viernes,15:00,Dolor de cabeza,Confirmado,1
+52,M,Pediatría,Consulta inicial,16,Martes,16:00,Fatiga crónica,Cancelado,1
+66,F,General,Vacunación,19,Domingo,11:00,Dolor abdominal,Confirmado,1
+52,F,Ginecología,Emergencia,1,Jueves,14:30,Chequeo anual,Pendiente,1
+65,M,Cardiología,Emergencia,3,Martes,13:30,Fatiga crónica,Cancelado,1
+53,F,Dermatología,Vacunación,3,Jueves,16:00,Problemas de visión,Confirmado,1
+35,F,Ginecología,Examen rutinario,5,Jueves,14:30,Control prenatal,Cancelado,1
+66,F,Dermatología,Consulta inicial,12,Viernes,10:30,Problemas de visión,Pendiente,0
+56,M,General,Consulta inicial,12,Martes,17:00,Chequeo anual,Confirmado,1
+49,M,Dermatología,Emergencia,20,Martes,10:30,Fatiga crónica,Cancelado,1
+41,M,Cardiología,Vacunación,13,Lunes,16:30,Control prenatal,Cancelado,1
+40,F,Ginecología,Consulta inicial,20,Domingo,10:00,Fatiga crónica,Confirmado,1
+79,M,Neurología,Consulta inicial,9,Martes,10:30,Dolor de cabeza,Cancelado,0
+49,M,Oftalmología,Examen rutinario,7,Lunes,08:30,Control prenatal,Cancelado,0
+54,M,Cardiología,Seguimiento,4,Miércoles,11:30,Erupción cutánea,Pendiente,1
+29,M,Cardiología,Emergencia,19,Miércoles,15:00,Dolor abdominal,Pendiente,1
+66,M,Neurología,Emergencia,19,Miércoles,15:00,Problemas de visión,Pendiente,1
+72,M,Ginecología,Seguimiento,6,Sábado,13:00,Control prenatal,Pendiente,1
+30,F,Ginecología,Consulta inicial,13,Martes,18:30,Dolor abdominal,Pendiente,1
+40,F,General,Examen rutinario,11,Sábado,18:30,Fatiga crónica,Pendiente,1
+42,M,Dermatología,Examen rutinario,13,Domingo,08:00,Chequeo anual,Confirmado,1
+52,M,General,Emergencia,13,Martes,16:30,Control prenatal,Pendiente,1
+58,F,Neurología,Examen rutinario,20,Lunes,13:30,Dolor abdominal,Cancelado,1
+47,F,General,Seguimiento,15,Sábado,13:30,Fatiga crónica,Confirmado,1
+34,M,Neurología,Consulta inicial,13,Sábado,13:00,Fatiga crónica,Cancelado,0
+66,M,Ginecología,Seguimiento,11,Domingo,11:30,Fatiga crónica,Pendiente,1
+79,M,Dermatología,Vacunación,19,Sábado,11:00,Chequeo anual,Pendiente,0
+37,M,General,Emergencia,8,Jueves,18:00,Dolor de cabeza,Cancelado,1
+65,F,Cardiología,Examen rutinario,20,Lunes,08:30,Chequeo anual,Cancelado,0
+42,M,Pediatría,Vacunación,8,Miércoles,13:00,Chequeo anual,Cancelado,1
+39,M,Oftalmología,Examen rutinario,10,Lunes,18:30,Erupción cutánea,Confirmado,1
+30,M,Cardiología,Consulta inicial,16,Jueves,12:30,Problemas de visión,Pendiente,1
+76,M,Ginecología,Consulta inicial,19,Domingo,09:00,Fatiga crónica,Cancelado,0
+36,F,Oftalmología,Consulta inicial,11,Domingo,17:30,Dolor abdominal,Pendiente,0
+66,F,Pediatría,Examen rutinario,13,Martes,12:30,Control prenatal,Cancelado,1
+53,F,Pediatría,Vacunación,9,Lunes,16:30,Problemas de visión,Pendiente,0
+29,M,Dermatología,Consulta inicial,20,Domingo,14:30,Fatiga crónica,Confirmado,1
+78,M,Oftalmología,Vacunación,19,Sábado,16:30,Vacunación,Pendiente,1
+58,F,Dermatología,Examen rutinario,16,Domingo,11:30,Chequeo anual,Cancelado,1
+36,M,Cardiología,Vacunación,7,Domingo,12:30,Vacunación,Pendiente,1
+29,M,Neurología,Examen rutinario,19,Domingo,18:30,Fatiga crónica,Confirmado,1
+26,F,Neurología,Examen rutinario,12,Domingo,14:00,Problemas de visión,Confirmado,0
+24,F,Neurología,Emergencia,15,Miércoles,18:00,Dolor abdominal,Pendiente,0
+45,F,Oftalmología,Examen rutinario,14,Miércoles,11:30,Problemas de visión,Cancelado,0
+31,F,Neurología,Examen rutinario,11,Martes,09:30,Erupción cutánea,Confirmado,0
+48,M,Cardiología,Seguimiento,10,Domingo,09:30,Dolor abdominal,Confirmado,0
+69,M,Dermatología,Consulta inicial,11,Lunes,10:00,Dolor abdominal,Pendiente,1
+36,F,Oftalmología,Emergencia,6,Jueves,08:00,Fatiga crónica,Confirmado,1
+75,M,Dermatología,Emergencia,2,Martes,16:00,Dolor de cabeza,Confirmado,1
+64,F,Oftalmología,Emergencia,11,Lunes,08:30,Fatiga crónica,Cancelado,1
+33,F,Dermatología,Seguimiento,19,Domingo,11:30,Chequeo anual,Cancelado,1
+70,M,Pediatría,Examen rutinario,6,Viernes,11:00,Problemas de visión,Cancelado,1
+22,F,Dermatología,Consulta inicial,14,Domingo,15:00,Dolor abdominal,Pendiente,0
+52,M,Neurología,Vacunación,20,Miércoles,10:00,Fatiga crónica,Confirmado,1
+29,M,Pediatría,Examen rutinario,6,Jueves,08:30,Fatiga crónica,Pendiente,0
+42,M,Dermatología,Seguimiento,17,Sábado,11:00,Problemas de visión,Confirmado,0
+69,M,Oftalmología,Examen rutinario,10,Jueves,11:30,Problemas de visión,Confirmado,1
+76,F,Oftalmología,Examen rutinario,1,Sábado,11:00,Erupción cutánea,Confirmado,1
+38,M,Oftalmología,Seguimiento,3,Jueves,11:00,Dolor abdominal,Cancelado,1
+53,F,Ginecología,Emergencia,8,Miércoles,14:30,Control prenatal,Pendiente,0
+70,F,Cardiología,Emergencia,8,Sábado,18:00,Erupción cutánea,Pendiente,1
+40,F,Oftalmología,Consulta inicial,20,Lunes,16:30,Vacunación,Confirmado,1
+33,F,Pediatría,Consulta inicial,15,Sábado,10:30,Chequeo anual,Pendiente,1
+74,M,Oftalmología,Emergencia,7,Martes,09:30,Chequeo anual,Cancelado,1
+56,M,Ginecología,Vacunación,11,Lunes,12:30,Control prenatal,Pendiente,1
+62,F,Neurología,Examen rutinario,7,Martes,16:30,Dolor de cabeza,Confirmado,0
+70,F,Pediatría,Vacunación,4,Domingo,13:30,Erupción cutánea,Cancelado,1
+59,M,Ginecología,Examen rutinario,12,Jueves,15:30,Control prenatal,Cancelado,1
+75,F,Neurología,Emergencia,6,Lunes,11:00,Dolor de cabeza,Confirmado,1
+56,M,General,Consulta inicial,14,Jueves,10:30,Dolor de cabeza,Pendiente,1
+31,F,General,Consulta inicial,12,Domingo,10:00,Control prenatal,Confirmado,1
+48,M,Pediatría,Vacunación,11,Viernes,09:00,Chequeo anual,Pendiente,1
+75,F,Dermatología,Consulta inicial,19,Jueves,13:30,Vacunación,Pendiente,1
+22,F,Cardiología,Emergencia,5,Domingo,15:00,Chequeo anual,Cancelado,1
+52,M,Cardiología,Vacunación,14,Jueves,12:30,Fatiga crónica,Confirmado,1
+40,F,Ginecología,Examen rutinario,16,Domingo,17:30,Chequeo anual,Cancelado,0
+46,F,Neurología,Consulta inicial,13,Martes,17:00,Chequeo anual,Confirmado,0
+60,M,Cardiología,Seguimiento,20,Domingo,15:30,Erupción cutánea,Confirmado,1
+28,F,Neurología,Consulta inicial,4,Sábado,13:00,Control prenatal,Cancelado,1
+35,M,Neurología,Examen rutinario,11,Viernes,11:30,Control prenatal,Confirmado,1
+64,M,Ginecología,Vacunación,17,Jueves,09:00,Fatiga crónica,Confirmado,1
+29,F,Ginecología,Examen rutinario,7,Domingo,11:00,Fatiga crónica,Pendiente,0
+26,F,Ginecología,Seguimiento,14,Domingo,11:00,Erupción cutánea,Confirmado,0
+27,F,Cardiología,Emergencia,11,Jueves,14:30,Control prenatal,Confirmado,1
+75,F,General,Consulta inicial,9,Viernes,08:30,Chequeo anual,Cancelado,0
+61,F,Ginecología,Vacunación,13,Viernes,12:30,Vacunación,Cancelado,1
+34,F,Cardiología,Emergencia,18,Domingo,17:00,Dolor de cabeza,Confirmado,0
+78,F,Ginecología,Examen rutinario,11,Lunes,12:00,Problemas de visión,Pendiente,1
+55,M,Oftalmología,Vacunación,15,Martes,15:30,Dolor de cabeza,Pendiente,1
+24,F,Neurología,Emergencia,19,Viernes,17:00,Fatiga crónica,Cancelado,1
+63,M,Ginecología,Vacunación,1,Viernes,16:30,Fatiga crónica,Confirmado,1
+30,F,Pediatría,Seguimiento,4,Miércoles,12:00,Dolor de cabeza,Confirmado,0
+57,F,Neurología,Seguimiento,14,Sábado,15:30,Problemas de visión,Pendiente,1
+59,M,Neurología,Consulta inicial,14,Viernes,14:00,Chequeo anual,Pendiente,1
+26,F,Ginecología,Consulta inicial,3,Martes,12:30,Vacunación,Pendiente,1
+67,F,General,Seguimiento,17,Sábado,17:30,Vacunación,Cancelado,1
+44,M,Dermatología,Vacunación,3,Sábado,14:30,Dolor de cabeza,Confirmado,0
+75,F,General,Seguimiento,16,Jueves,13:30,Problemas de visión,Cancelado,1
+19,F,Ginecología,Consulta inicial,14,Jueves,17:00,Erupción cutánea,Confirmado,1
+22,F,Neurología,Seguimiento,20,Jueves,11:00,Fatiga crónica,Cancelado,1
+46,M,Pediatría,Seguimiento,13,Jueves,15:00,Dolor abdominal,Confirmado,0
+54,F,Neurología,Vacunación,15,Miércoles,15:30,Chequeo anual,Pendiente,1
+55,F,General,Emergencia,14,Viernes,11:30,Erupción cutánea,Pendiente,1
+36,F,Pediatría,Consulta inicial,19,Jueves,12:30,Dolor de cabeza,Pendiente,0
+25,F,Cardiología,Vacunación,6,Domingo,09:30,Vacunación,Cancelado,1
+65,M,Oftalmología,Seguimiento,10,Lunes,17:00,Fatiga crónica,Pendiente,1
+62,M,Neurología,Seguimiento,15,Jueves,17:00,Erupción cutánea,Confirmado,1
+18,F,Ginecología,Emergencia,20,Viernes,18:00,Erupción cutánea,Cancelado,1
+39,F,Cardiología,Consulta inicial,6,Jueves,15:00,Control prenatal,Confirmado,1
+69,M,Oftalmología,Consulta inicial,10,Miércoles,14:30,Control prenatal,Cancelado,1
+34,M,Ginecología,Examen rutinario,7,Martes,08:00,Problemas de visión,Confirmado,1
+80,F,Dermatología,Consulta inicial,17,Martes,15:30,Problemas de visión,Confirmado,0
+24,M,Ginecología,Emergencia,18,Viernes,12:30,Dolor de cabeza,Cancelado,1
+42,F,Pediatría,Examen rutinario,17,Domingo,17:00,Erupción cutánea,Cancelado,1
+62,M,Pediatría,Examen rutinario,9,Martes,18:30,Dolor abdominal,Pendiente,1
+21,M,Dermatología,Seguimiento,10,Martes,09:00,Vacunación,Pendiente,1
+53,M,Cardiología,Seguimiento,10,Lunes,10:00,Dolor de cabeza,Confirmado,1
+23,M,Oftalmología,Consulta inicial,7,Viernes,12:00,Dolor abdominal,Confirmado,1
+77,F,Ginecología,Examen rutinario,16,Domingo,16:30,Fatiga crónica,Confirmado,1
+48,M,Pediatría,Seguimiento,18,Viernes,13:00,Problemas de visión,Cancelado,1
+36,M,Cardiología,Emergencia,6,Martes,15:30,Control prenatal,Cancelado,0
+78,F,Dermatología,Seguimiento,20,Martes,08:30,Chequeo anual,Pendiente,1
+61,M,General,Seguimiento,1,Martes,13:30,Erupción cutánea,Confirmado,1
+71,M,Neurología,Examen rutinario,1,Sábado,18:30,Fatiga crónica,Pendiente,1
+56,F,General,Examen rutinario,12,Miércoles,10:30,Control prenatal,Cancelado,1
+44,M,General,Vacunación,2,Jueves,13:00,Vacunación,Cancelado,1
+27,F,Pediatría,Emergencia,4,Miércoles,11:30,Vacunación,Cancelado,0
+43,F,Dermatología,Examen rutinario,17,Viernes,13:30,Control prenatal,Pendiente,1
+36,F,Ginecología,Consulta inicial,4,Lunes,08:30,Fatiga crónica,Cancelado,1
+56,F,General,Emergencia,11,Jueves,12:00,Control prenatal,Confirmado,0
+79,M,General,Emergencia,4,Lunes,15:00,Dolor abdominal,Pendiente,0
+20,F,Oftalmología,Examen rutinario,1,Domingo,08:30,Dolor de cabeza,Cancelado,1
+62,M,Pediatría,Emergencia,7,Sábado,08:00,Problemas de visión,Pendiente,1
+30,M,Pediatría,Examen rutinario,18,Viernes,12:30,Dolor abdominal,Pendiente,0
+67,M,Ginecología,Seguimiento,9,Sábado,08:30,Chequeo anual,Cancelado,1
+45,M,Neurología,Vacunación,3,Viernes,13:30,Control prenatal,Cancelado,1
+79,M,Cardiología,Seguimiento,8,Lunes,11:30,Chequeo anual,Pendiente,1
+75,M,Oftalmología,Examen rutinario,19,Lunes,10:00,Chequeo anual,Pendiente,1
+37,M,Pediatría,Examen rutinario,4,Lunes,18:30,Dolor abdominal,Cancelado,1
+45,M,Oftalmología,Seguimiento,18,Viernes,08:00,Problemas de visión,Confirmado,0
+25,M,Pediatría,Consulta inicial,20,Martes,15:00,Fatiga crónica,Pendiente,0
+78,M,Oftalmología,Consulta inicial,11,Lunes,10:30,Vacunación,Pendiente,1
+80,F,Dermatología,Consulta inicial,14,Sábado,13:30,Dolor de cabeza,Confirmado,1
+58,F,General,Examen rutinario,18,Domingo,11:30,Erupción cutánea,Cancelado,1
+56,F,Pediatría,Emergencia,16,Jueves,14:00,Vacunación,Cancelado,1
+18,M,Oftalmología,Examen rutinario,3,Viernes,17:00,Problemas de visión,Confirmado,1
+20,F,Cardiología,Emergencia,15,Sábado,08:00,Erupción cutánea,Cancelado,1
+30,F,Dermatología,Seguimiento,4,Miércoles,13:00,Vacunación,Cancelado,0
+45,F,Dermatología,Vacunación,5,Domingo,17:30,Control prenatal,Pendiente,0
+79,M,Cardiología,Emergencia,17,Miércoles,08:00,Control prenatal,Pendiente,1
+74,M,Oftalmología,Consulta inicial,7,Jueves,11:30,Dolor abdominal,Pendiente,0
+80,M,Ginecología,Examen rutinario,16,Martes,10:00,Chequeo anual,Confirmado,0
+77,M,Cardiología,Seguimiento,14,Lunes,16:00,Erupción cutánea,Cancelado,1
+66,F,Oftalmología,Consulta inicial,16,Viernes,11:30,Problemas de visión,Cancelado,1
+42,F,Cardiología,Seguimiento,7,Sábado,12:30,Problemas de visión,Pendiente,1
+73,F,Cardiología,Vacunación,9,Lunes,08:30,Vacunación,Pendiente,0
+50,F,Pediatría,Examen rutinario,4,Sábado,12:00,Dolor abdominal,Confirmado,0
+55,M,Oftalmología,Examen rutinario,11,Viernes,09:00,Vacunación,Cancelado,1
+70,M,Ginecología,Vacunación,2,Miércoles,16:30,Vacunación,Confirmado,1
+23,M,General,Examen rutinario,12,Lunes,11:00,Problemas de visión,Cancelado,1
+75,F,Pediatría,Emergencia,12,Jueves,15:00,Vacunación,Confirmado,1
+61,M,Cardiología,Seguimiento,4,Martes,18:00,Chequeo anual,Pendiente,1
+62,M,General,Consulta inicial,18,Jueves,18:30,Vacunación,Confirmado,1
+49,F,Neurología,Vacunación,7,Martes,17:30,Erupción cutánea,Confirmado,0
+62,F,General,Emergencia,1,Domingo,16:30,Chequeo anual,Pendiente,1
+78,M,Cardiología,Consulta inicial,13,Sábado,09:00,Problemas de visión,Cancelado,1
+64,M,Cardiología,Consulta inicial,6,Lunes,14:30,Dolor abdominal,Cancelado,1
+38,M,Oftalmología,Vacunación,6,Lunes,08:30,Control prenatal,Pendiente,1
+33,M,Oftalmología,Emergencia,12,Domingo,14:30,Erupción cutánea,Confirmado,0
+71,M,Pediatría,Consulta inicial,8,Martes,18:30,Chequeo anual,Confirmado,1
+38,M,Ginecología,Consulta inicial,19,Miércoles,13:00,Dolor abdominal,Confirmado,1
+28,F,Pediatría,Emergencia,5,Viernes,15:30,Dolor abdominal,Cancelado,0
+77,F,Dermatología,Examen rutinario,18,Jueves,11:30,Chequeo anual,Confirmado,0
+54,F,Cardiología,Consulta inicial,5,Domingo,11:00,Problemas de visión,Cancelado,1
+53,M,General,Seguimiento,10,Sábado,13:00,Dolor de cabeza,Confirmado,1
+52,F,Neurología,Emergencia,1,Domingo,09:00,Dolor abdominal,Pendiente,0
+36,M,Cardiología,Consulta inicial,10,Jueves,16:00,Dolor abdominal,Pendiente,1
+37,M,Cardiología,Vacunación,5,Jueves,14:30,Problemas de visión,Cancelado,0
+74,F,Pediatría,Seguimiento,12,Sábado,10:30,Problemas de visión,Cancelado,1
+35,M,Neurología,Consulta inicial,7,Sábado,11:30,Vacunación,Pendiente,1
+64,M,Neurología,Seguimiento,9,Lunes,18:30,Problemas de visión,Pendiente,0
+58,F,Neurología,Seguimiento,12,Jueves,10:00,Dolor abdominal,Confirmado,1
+66,F,Pediatría,Examen rutinario,1,Viernes,11:30,Chequeo anual,Pendiente,0
+31,F,Cardiología,Seguimiento,11,Viernes,08:30,Dolor de cabeza,Cancelado,1
+32,M,Pediatría,Examen rutinario,15,Martes,15:00,Fatiga crónica,Pendiente,0
+48,F,Oftalmología,Emergencia,2,Domingo,13:30,Vacunación,Cancelado,1
+18,F,Oftalmología,Examen rutinario,20,Sábado,16:00,Fatiga crónica,Cancelado,0
+70,M,Pediatría,Vacunación,7,Lunes,08:00,Chequeo anual,Confirmado,1
+71,F,Neurología,Consulta inicial,12,Viernes,15:00,Dolor de cabeza,Confirmado,1
+71,F,Cardiología,Emergencia,18,Miércoles,14:30,Dolor de cabeza,Confirmado,0
+20,F,Pediatría,Emergencia,3,Lunes,17:30,Dolor de cabeza,Confirmado,1
+33,M,Pediatría,Vacunación,7,Lunes,18:30,Control prenatal,Pendiente,0
+40,M,Pediatría,Examen rutinario,11,Viernes,15:30,Chequeo anual,Confirmado,1
+74,M,Dermatología,Consulta inicial,18,Miércoles,12:00,Erupción cutánea,Pendiente,0
+28,M,Oftalmología,Examen rutinario,12,Martes,08:00,Vacunación,Confirmado,1
+29,F,General,Seguimiento,6,Viernes,16:00,Vacunación,Confirmado,1
+27,M,Neurología,Examen rutinario,5,Miércoles,14:00,Dolor de cabeza,Cancelado,1
+49,M,Ginecología,Emergencia,1,Lunes,18:00,Chequeo anual,Pendiente,1
+33,F,General,Consulta inicial,12,Miércoles,18:00,Control prenatal,Cancelado,1
+25,F,Neurología,Examen rutinario,11,Lunes,10:00,Dolor de cabeza,Confirmado,1
+55,F,Ginecología,Consulta inicial,4,Domingo,12:30,Problemas de visión,Pendiente,1
+29,M,Dermatología,Consulta inicial,18,Viernes,10:30,Erupción cutánea,Confirmado,1
+41,M,Pediatría,Seguimiento,4,Sábado,17:00,Fatiga crónica,Cancelado,0
+45,M,Dermatología,Seguimiento,17,Viernes,14:00,Vacunación,Pendiente,1
+70,F,Dermatología,Emergencia,2,Domingo,08:00,Fatiga crónica,Cancelado,1
+25,F,General,Vacunación,2,Jueves,17:30,Dolor abdominal,Confirmado,1
+75,M,Cardiología,Consulta inicial,12,Jueves,15:00,Dolor de cabeza,Confirmado,1
+45,F,General,Vacunación,6,Jueves,14:30,Problemas de visión,Confirmado,0
+53,F,Oftalmología,Emergencia,10,Viernes,11:30,Vacunación,Pendiente,1
+43,F,Ginecología,Consulta inicial,16,Martes,12:30,Fatiga crónica,Cancelado,0
+25,M,Pediatría,Consulta inicial,14,Viernes,12:00,Erupción cutánea,Cancelado,0
+75,F,General,Vacunación,7,Domingo,16:00,Control prenatal,Confirmado,0
+77,F,Ginecología,Examen rutinario,19,Domingo,12:00,Chequeo anual,Cancelado,1
+67,M,Neurología,Seguimiento,17,Sábado,09:00,Vacunación,Pendiente,0
+45,M,Ginecología,Examen rutinario,9,Miércoles,13:00,Erupción cutánea,Confirmado,0
+45,F,Neurología,Vacunación,13,Viernes,13:30,Fatiga crónica,Confirmado,1
+54,F,General,Seguimiento,5,Viernes,12:30,Chequeo anual,Confirmado,0
+58,M,Oftalmología,Examen rutinario,5,Lunes,16:00,Fatiga crónica,Pendiente,0
+53,M,General,Seguimiento,10,Domingo,16:00,Chequeo anual,Confirmado,0
+44,F,Neurología,Consulta inicial,10,Lunes,13:00,Control prenatal,Confirmado,1
+71,F,Ginecología,Examen rutinario,7,Lunes,18:30,Control prenatal,Confirmado,1
+80,F,Ginecología,Seguimiento,15,Viernes,09:30,Dolor de cabeza,Confirmado,0
+34,F,Neurología,Seguimiento,7,Martes,11:00,Dolor de cabeza,Cancelado,1
+26,M,Dermatología,Seguimiento,15,Miércoles,18:00,Vacunación,Confirmado,1
+50,F,Oftalmología,Examen rutinario,3,Miércoles,14:30,Control prenatal,Pendiente,1
+70,F,Cardiología,Emergencia,19,Domingo,11:00,Problemas de visión,Confirmado,1
+37,M,Pediatría,Examen rutinario,10,Sábado,11:30,Fatiga crónica,Confirmado,1
+30,F,Ginecología,Vacunación,15,Domingo,08:00,Fatiga crónica,Cancelado,1
+45,M,Pediatría,Examen rutinario,3,Martes,18:30,Fatiga crónica,Confirmado,0
+65,F,Cardiología,Seguimiento,6,Martes,09:30,Vacunación,Cancelado,0
+46,F,General,Consulta inicial,12,Miércoles,13:30,Fatiga crónica,Pendiente,1
+30,M,Pediatría,Examen rutinario,15,Jueves,09:00,Dolor abdominal,Cancelado,0
+63,M,Cardiología,Examen rutinario,6,Lunes,14:00,Chequeo anual,Confirmado,1
+52,F,Neurología,Seguimiento,13,Lunes,17:30,Fatiga crónica,Pendiente,1
+78,F,Dermatología,Consulta inicial,19,Miércoles,10:30,Erupción cutánea,Confirmado,1
+23,F,Ginecología,Consulta inicial,3,Domingo,13:00,Chequeo anual,Cancelado,1
+35,M,Cardiología,Vacunación,8,Martes,09:30,Dolor de cabeza,Pendiente,1
+68,F,Pediatría,Examen rutinario,8,Domingo,17:30,Fatiga crónica,Pendiente,0
+22,M,Ginecología,Consulta inicial,20,Sábado,15:30,Erupción cutánea,Cancelado,1
+64,M,Dermatología,Consulta inicial,15,Jueves,11:00,Problemas de visión,Cancelado,1
+42,F,Neurología,Emergencia,4,Miércoles,18:30,Erupción cutánea,Pendiente,1
+19,M,General,Emergencia,19,Lunes,13:00,Control prenatal,Pendiente,1
+27,F,Ginecología,Consulta inicial,3,Viernes,08:00,Control prenatal,Cancelado,1
+73,F,General,Vacunación,13,Domingo,11:00,Dolor de cabeza,Confirmado,1
+47,F,Cardiología,Consulta inicial,8,Martes,13:30,Dolor abdominal,Pendiente,1
+67,F,Dermatología,Seguimiento,16,Viernes,11:00,Vacunación,Cancelado,1
+76,F,Pediatría,Examen rutinario,13,Sábado,11:00,Vacunación,Confirmado,1
+62,M,Dermatología,Vacunación,3,Miércoles,12:30,Problemas de visión,Pendiente,1
+22,M,Dermatología,Seguimiento,16,Domingo,15:30,Dolor de cabeza,Pendiente,1
+72,F,Oftalmología,Vacunación,9,Lunes,11:30,Dolor de cabeza,Cancelado,0
+73,F,Dermatología,Seguimiento,14,Domingo,12:00,Dolor abdominal,Confirmado,1
+50,M,Dermatología,Examen rutinario,13,Jueves,12:00,Fatiga crónica,Pendiente,1
+71,M,Ginecología,Examen rutinario,7,Viernes,08:30,Vacunación,Confirmado,1
+18,M,Pediatría,Emergencia,15,Jueves,14:00,Fatiga crónica,Confirmado,1
+35,M,Ginecología,Seguimiento,7,Sábado,14:00,Dolor de cabeza,Pendiente,0
+49,F,Ginecología,Emergencia,6,Lunes,09:30,Fatiga crónica,Confirmado,0
+64,F,Cardiología,Seguimiento,2,Viernes,13:30,Control prenatal,Pendiente,0
+66,M,Ginecología,Emergencia,9,Sábado,16:00,Problemas de visión,Confirmado,0
+28,F,Oftalmología,Examen rutinario,17,Jueves,08:30,Vacunación,Pendiente,1
+38,M,Oftalmología,Vacunación,5,Jueves,14:00,Dolor abdominal,Cancelado,1
+43,F,General,Emergencia,12,Viernes,16:30,Problemas de visión,Pendiente,1
+80,M,Cardiología,Seguimiento,1,Lunes,15:00,Chequeo anual,Pendiente,1
+42,F,General,Seguimiento,10,Jueves,11:30,Control prenatal,Pendiente,0
+39,M,General,Examen rutinario,11,Miércoles,15:00,Dolor abdominal,Confirmado,0
+76,M,Neurología,Seguimiento,16,Sábado,08:00,Erupción cutánea,Cancelado,0
+44,F,Pediatría,Consulta inicial,14,Viernes,17:30,Problemas de visión,Confirmado,1
+66,M,Pediatría,Vacunación,8,Martes,12:30,Dolor de cabeza,Confirmado,1
+30,F,Ginecología,Emergencia,17,Martes,13:30,Chequeo anual,Pendiente,0
+50,F,Ginecología,Vacunación,18,Lunes,10:00,Dolor abdominal,Confirmado,1
+51,M,Neurología,Examen rutinario,12,Miércoles,12:00,Dolor de cabeza,Pendiente,0
+58,F,Ginecología,Emergencia,17,Jueves,11:30,Control prenatal,Cancelado,1
+52,F,Pediatría,Emergencia,14,Martes,15:30,Erupción cutánea,Confirmado,1
+80,F,General,Consulta inicial,16,Lunes,14:30,Chequeo anual,Confirmado,1
+18,F,Dermatología,Examen rutinario,14,Sábado,14:00,Vacunación,Confirmado,1
+38,F,Oftalmología,Seguimiento,9,Miércoles,18:00,Erupción cutánea,Pendiente,1
+65,M,Dermatología,Consulta inicial,4,Miércoles,14:00,Dolor de cabeza,Pendiente,0
+72,F,Dermatología,Consulta inicial,11,Domingo,10:00,Problemas de visión,Confirmado,1
+23,F,Pediatría,Vacunación,6,Lunes,15:30,Fatiga crónica,Confirmado,1
+45,F,Dermatología,Vacunación,15,Lunes,13:00,Dolor abdominal,Cancelado,1
+34,F,Neurología,Vacunación,5,Domingo,18:30,Chequeo anual,Cancelado,1
+22,F,Cardiología,Consulta inicial,11,Jueves,10:00,Dolor de cabeza,Cancelado,1
+48,M,Ginecología,Seguimiento,18,Lunes,14:00,Vacunación,Cancelado,1
+22,F,Cardiología,Emergencia,13,Domingo,13:00,Fatiga crónica,Cancelado,0
+55,M,General,Vacunación,11,Jueves,17:00,Dolor abdominal,Pendiente,1
+20,M,Oftalmología,Seguimiento,14,Jueves,09:00,Dolor abdominal,Cancelado,0
+70,M,Ginecología,Examen rutinario,18,Viernes,15:00,Dolor de cabeza,Cancelado,0
+40,M,Dermatología,Vacunación,19,Miércoles,11:00,Vacunación,Confirmado,1
+54,F,Oftalmología,Emergencia,15,Sábado,11:00,Control prenatal,Pendiente,1
+70,M,Ginecología,Examen rutinario,9,Miércoles,10:30,Fatiga crónica,Cancelado,0
+54,M,Neurología,Examen rutinario,8,Miércoles,09:00,Control prenatal,Cancelado,1
+27,F,Neurología,Emergencia,20,Viernes,14:00,Chequeo anual,Cancelado,1
+27,F,Neurología,Vacunación,1,Jueves,11:00,Dolor de cabeza,Confirmado,0
+36,F,Neurología,Consulta inicial,4,Jueves,10:00,Fatiga crónica,Confirmado,1
+34,M,Dermatología,Emergencia,14,Lunes,16:30,Chequeo anual,Confirmado,1
+38,F,Cardiología,Emergencia,2,Viernes,18:30,Erupción cutánea,Cancelado,1
+31,F,Ginecología,Emergencia,16,Lunes,11:30,Control prenatal,Confirmado,1
+26,M,Dermatología,Examen rutinario,3,Viernes,16:00,Erupción cutánea,Cancelado,1
+63,F,Neurología,Seguimiento,8,Lunes,17:30,Erupción cutánea,Pendiente,1
+18,F,General,Consulta inicial,6,Martes,08:00,Fatiga crónica,Cancelado,1
+68,F,Cardiología,Vacunación,16,Domingo,14:30,Dolor abdominal,Confirmado,1
+62,F,General,Vacunación,16,Miércoles,16:00,Chequeo anual,Pendiente,0
+30,M,Oftalmología,Seguimiento,7,Miércoles,12:30,Erupción cutánea,Cancelado,1
+21,F,General,Emergencia,13,Sábado,13:30,Vacunación,Pendiente,1
+79,F,Oftalmología,Consulta inicial,13,Domingo,15:30,Problemas de visión,Pendiente,0
+18,M,Oftalmología,Vacunación,5,Jueves,14:30,Control prenatal,Pendiente,1
+66,F,Neurología,Vacunación,20,Sábado,15:30,Control prenatal,Cancelado,1
+57,M,Oftalmología,Emergencia,18,Martes,11:30,Vacunación,Confirmado,0
+49,F,Pediatría,Seguimiento,15,Sábado,12:30,Fatiga crónica,Cancelado,1
+51,M,Ginecología,Consulta inicial,18,Miércoles,16:00,Fatiga crónica,Confirmado,1
+45,M,Ginecología,Seguimiento,2,Jueves,16:30,Fatiga crónica,Cancelado,1
+48,M,Neurología,Seguimiento,10,Martes,17:30,Chequeo anual,Cancelado,1
+25,M,Pediatría,Consulta inicial,13,Miércoles,15:30,Dolor de cabeza,Cancelado,1
+56,F,General,Consulta inicial,18,Domingo,16:00,Erupción cutánea,Confirmado,1
+43,M,Dermatología,Vacunación,15,Lunes,15:30,Dolor abdominal,Cancelado,1
+75,F,General,Vacunación,12,Viernes,17:00,Problemas de visión,Pendiente,0
+51,M,Dermatología,Consulta inicial,15,Martes,11:30,Dolor de cabeza,Cancelado,1
+71,M,Oftalmología,Examen rutinario,13,Jueves,10:30,Dolor de cabeza,Pendiente,0
+71,M,Cardiología,Vacunación,18,Sábado,10:30,Vacunación,Confirmado,1
+20,F,Dermatología,Examen rutinario,15,Domingo,18:00,Chequeo anual,Confirmado,1
+76,M,Cardiología,Consulta inicial,11,Sábado,12:00,Control prenatal,Cancelado,1
+67,F,Ginecología,Vacunación,19,Martes,09:30,Control prenatal,Cancelado,1
+29,F,Cardiología,Seguimiento,3,Domingo,13:30,Vacunación,Cancelado,0
+18,F,Ginecología,Consulta inicial,7,Jueves,13:30,Chequeo anual,Pendiente,0
+71,F,Pediatría,Emergencia,14,Martes,16:00,Vacunación,Confirmado,0
+61,F,Pediatría,Examen rutinario,14,Jueves,15:00,Control prenatal,Pendiente,1
+22,F,Neurología,Consulta inicial,13,Sábado,12:00,Dolor de cabeza,Pendiente,1
+47,F,Neurología,Consulta inicial,12,Miércoles,11:00,Dolor abdominal,Cancelado,0
+47,F,Oftalmología,Vacunación,9,Domingo,12:30,Erupción cutánea,Cancelado,1
+76,F,Dermatología,Vacunación,1,Lunes,15:30,Fatiga crónica,Pendiente,1
+74,M,Oftalmología,Vacunación,19,Miércoles,13:30,Chequeo anual,Pendiente,1
+34,M,Ginecología,Emergencia,11,Lunes,11:00,Erupción cutánea,Cancelado,1
+65,M,Oftalmología,Vacunación,19,Sábado,16:30,Problemas de visión,Cancelado,1
+80,M,Cardiología,Consulta inicial,18,Domingo,15:00,Problemas de visión,Pendiente,0
+64,M,Ginecología,Vacunación,12,Miércoles,10:30,Dolor de cabeza,Cancelado,1
+40,F,Neurología,Seguimiento,1,Miércoles,13:30,Vacunación,Cancelado,1
+32,F,Pediatría,Vacunación,19,Martes,13:00,Vacunación,Pendiente,1
+54,F,Neurología,Emergencia,20,Viernes,17:30,Control prenatal,Pendiente,1
+38,F,Dermatología,Seguimiento,17,Sábado,09:00,Dolor de cabeza,Confirmado,0
+31,F,Ginecología,Consulta inicial,5,Jueves,08:30,Control prenatal,Pendiente,1
+19,F,Ginecología,Consulta inicial,3,Sábado,10:30,Control prenatal,Cancelado,1
+28,F,Cardiología,Examen rutinario,2,Jueves,18:30,Problemas de visión,Pendiente,1
+68,M,Dermatología,Seguimiento,3,Domingo,10:00,Control prenatal,Pendiente,1
+56,M,Pediatría,Examen rutinario,8,Jueves,16:30,Erupción cutánea,Pendiente,1
+55,M,General,Seguimiento,16,Lunes,15:30,Fatiga crónica,Confirmado,1
+77,M,Ginecología,Seguimiento,6,Jueves,11:30,Control prenatal,Confirmado,1
+51,F,Ginecología,Emergencia,13,Jueves,17:30,Problemas de visión,Cancelado,1
+55,F,Cardiología,Examen rutinario,16,Martes,18:30,Fatiga crónica,Confirmado,1
+67,F,Oftalmología,Emergencia,16,Miércoles,13:00,Vacunación,Pendiente,0
+51,M,Pediatría,Seguimiento,3,Sábado,12:30,Chequeo anual,Confirmado,0
+35,F,Neurología,Consulta inicial,13,Sábado,13:30,Dolor abdominal,Pendiente,0
+47,F,Dermatología,Seguimiento,14,Domingo,18:00,Control prenatal,Confirmado,1
+32,F,Ginecología,Emergencia,8,Domingo,10:30,Erupción cutánea,Confirmado,1
+44,M,Ginecología,Examen rutinario,12,Jueves,17:30,Fatiga crónica,Confirmado,1
+68,F,Neurología,Examen rutinario,8,Viernes,10:00,Chequeo anual,Pendiente,1
+80,M,Pediatría,Emergencia,9,Sábado,12:00,Problemas de visión,Confirmado,0
+51,M,Oftalmología,Examen rutinario,1,Domingo,15:30,Chequeo anual,Pendiente,0
+69,M,Ginecología,Vacunación,6,Jueves,18:30,Dolor abdominal,Pendiente,0
+74,M,Pediatría,Consulta inicial,19,Domingo,14:30,Erupción cutánea,Cancelado,1
+55,F,Neurología,Consulta inicial,11,Lunes,18:30,Chequeo anual,Confirmado,0
+50,M,Cardiología,Consulta inicial,11,Lunes,11:30,Erupción cutánea,Cancelado,0
+41,M,Oftalmología,Examen rutinario,13,Domingo,17:30,Fatiga crónica,Cancelado,1
+32,F,Dermatología,Examen rutinario,11,Lunes,17:00,Chequeo anual,Pendiente,1
+77,F,Ginecología,Seguimiento,18,Domingo,14:30,Erupción cutánea,Confirmado,0
+47,M,Pediatría,Seguimiento,15,Jueves,11:00,Chequeo anual,Pendiente,1
+72,F,Cardiología,Consulta inicial,1,Martes,10:00,Chequeo anual,Pendiente,1
+59,M,Dermatología,Vacunación,7,Viernes,16:30,Dolor de cabeza,Confirmado,1
+68,M,General,Seguimiento,13,Jueves,08:30,Control prenatal,Pendiente,1
+34,M,Pediatría,Seguimiento,12,Martes,13:00,Problemas de visión,Confirmado,0
+22,M,Pediatría,Examen rutinario,18,Martes,18:30,Dolor abdominal,Confirmado,1
+46,F,Dermatología,Vacunación,19,Sábado,11:30,Problemas de visión,Pendiente,1
+21,M,Cardiología,Consulta inicial,15,Jueves,08:00,Dolor de cabeza,Pendiente,0
+27,F,General,Seguimiento,8,Jueves,18:30,Dolor de cabeza,Cancelado,1
+73,F,Neurología,Vacunación,19,Domingo,13:30,Fatiga crónica,Pendiente,1
+34,F,Cardiología,Vacunación,10,Martes,08:30,Dolor de cabeza,Confirmado,1
+27,F,Oftalmología,Consulta inicial,7,Martes,16:30,Control prenatal,Cancelado,0
+34,M,Ginecología,Vacunación,18,Martes,11:00,Dolor de cabeza,Confirmado,1
+77,F,Dermatología,Vacunación,16,Domingo,16:00,Chequeo anual,Cancelado,0
+37,M,Neurología,Vacunación,20,Sábado,18:30,Problemas de visión,Pendiente,1
+41,F,General,Seguimiento,6,Jueves,14:30,Vacunación,Pendiente,0
+22,F,Dermatología,Consulta inicial,9,Martes,11:00,Dolor abdominal,Pendiente,0
+51,M,Dermatología,Vacunación,13,Lunes,18:30,Dolor de cabeza,Confirmado,1
+23,M,Cardiología,Vacunación,8,Jueves,09:00,Problemas de visión,Cancelado,1
+70,M,Ginecología,Seguimiento,16,Domingo,10:30,Fatiga crónica,Confirmado,1
+19,F,Oftalmología,Consulta inicial,13,Sábado,17:30,Dolor de cabeza,Cancelado,1
+30,F,Pediatría,Examen rutinario,13,Lunes,08:30,Control prenatal,Pendiente,0
+79,M,Pediatría,Seguimiento,17,Domingo,16:00,Dolor de cabeza,Confirmado,1
+60,M,Dermatología,Consulta inicial,20,Miércoles,13:30,Dolor de cabeza,Pendiente,1
+60,M,Ginecología,Vacunación,5,Jueves,13:30,Erupción cutánea,Confirmado,0
+65,M,General,Consulta inicial,17,Miércoles,16:00,Erupción cutánea,Pendiente,1
+28,F,General,Consulta inicial,9,Domingo,12:30,Dolor de cabeza,Confirmado,0
+68,M,Neurología,Consulta inicial,2,Domingo,09:00,Fatiga crónica,Confirmado,1
+64,M,Cardiología,Examen rutinario,18,Domingo,17:30,Erupción cutánea,Cancelado,1
+74,M,Ginecología,Consulta inicial,9,Martes,16:30,Dolor de cabeza,Pendiente,1
+40,M,Ginecología,Examen rutinario,6,Sábado,14:00,Dolor abdominal,Cancelado,1
+72,F,Cardiología,Vacunación,11,Martes,13:30,Problemas de visión,Cancelado,1
+33,M,General,Examen rutinario,6,Sábado,16:00,Erupción cutánea,Pendiente,0
+48,F,General,Vacunación,6,Viernes,09:30,Erupción cutánea,Confirmado,1
+28,M,General,Vacunación,13,Martes,12:30,Control prenatal,Cancelado,0
+71,M,Dermatología,Examen rutinario,11,Miércoles,13:00,Dolor de cabeza,Pendiente,1
+33,F,Ginecología,Seguimiento,14,Sábado,10:30,Dolor de cabeza,Confirmado,1
+25,M,Pediatría,Emergencia,2,Martes,10:30,Dolor de cabeza,Cancelado,1
+21,F,Cardiología,Consulta inicial,8,Jueves,12:00,Dolor de cabeza,Cancelado,1
+57,F,General,Emergencia,3,Domingo,15:00,Erupción cutánea,Cancelado,1
+21,M,Neurología,Consulta inicial,3,Sábado,08:30,Chequeo anual,Confirmado,1
+73,F,General,Consulta inicial,1,Sábado,09:30,Chequeo anual,Cancelado,0
+42,F,General,Vacunación,19,Martes,10:00,Vacunación,Confirmado,1
+20,F,Oftalmología,Consulta inicial,18,Viernes,16:00,Dolor de cabeza,Cancelado,0
+49,F,Dermatología,Consulta inicial,17,Martes,11:30,Vacunación,Pendiente,1
+20,F,Cardiología,Examen rutinario,20,Miércoles,11:30,Dolor abdominal,Cancelado,0
+44,F,Oftalmología,Emergencia,13,Miércoles,18:30,Vacunación,Pendiente,1
+46,F,Oftalmología,Examen rutinario,3,Sábado,13:30,Problemas de visión,Pendiente,0
+49,F,Neurología,Consulta inicial,1,Sábado,18:00,Chequeo anual,Pendiente,0
+67,M,Ginecología,Vacunación,4,Martes,11:30,Chequeo anual,Confirmado,1
+78,M,Neurología,Examen rutinario,13,Miércoles,17:00,Dolor de cabeza,Pendiente,0
+75,F,Ginecología,Examen rutinario,17,Miércoles,09:00,Erupción cutánea,Cancelado,1
+68,M,Ginecología,Seguimiento,11,Viernes,16:30,Dolor de cabeza,Confirmado,0
+36,F,Cardiología,Consulta inicial,2,Jueves,18:00,Dolor abdominal,Pendiente,1
+38,F,General,Vacunación,16,Viernes,17:00,Control prenatal,Confirmado,1
+22,M,Cardiología,Examen rutinario,2,Lunes,17:00,Dolor abdominal,Confirmado,1
+35,F,Dermatología,Examen rutinario,19,Domingo,15:00,Problemas de visión,Confirmado,0
+45,F,Ginecología,Vacunación,19,Viernes,10:30,Dolor de cabeza,Cancelado,1
+59,F,Oftalmología,Consulta inicial,16,Martes,15:30,Dolor de cabeza,Pendiente,1
+78,F,General,Seguimiento,19,Jueves,11:30,Dolor abdominal,Confirmado,1
+39,M,Pediatría,Examen rutinario,9,Martes,15:30,Dolor abdominal,Confirmado,1
+38,F,Dermatología,Seguimiento,1,Domingo,16:30,Dolor abdominal,Confirmado,1
+23,F,Cardiología,Emergencia,10,Lunes,17:30,Chequeo anual,Pendiente,0
+18,F,Neurología,Consulta inicial,19,Jueves,15:30,Vacunación,Confirmado,0
+22,M,Dermatología,Emergencia,1,Sábado,13:00,Vacunación,Confirmado,0
+58,F,Dermatología,Emergencia,2,Miércoles,11:00,Dolor de cabeza,Cancelado,0
+29,M,General,Emergencia,16,Viernes,16:00,Chequeo anual,Pendiente,0
+43,M,Dermatología,Consulta inicial,12,Martes,16:00,Dolor abdominal,Cancelado,1
+63,F,Dermatología,Consulta inicial,8,Lunes,13:30,Dolor de cabeza,Pendiente,1
+51,F,Pediatría,Vacunación,18,Miércoles,14:00,Chequeo anual,Pendiente,1
+66,M,Neurología,Seguimiento,2,Viernes,12:30,Problemas de visión,Pendiente,0
+31,F,Neurología,Seguimiento,13,Miércoles,11:00,Control prenatal,Cancelado,1
+43,M,Neurología,Vacunación,6,Viernes,14:30,Chequeo anual,Cancelado,1
+62,M,Ginecología,Vacunación,6,Sábado,08:00,Fatiga crónica,Cancelado,1
+44,F,Oftalmología,Emergencia,9,Jueves,16:00,Dolor de cabeza,Cancelado,0
+26,F,Neurología,Vacunación,16,Miércoles,09:30,Erupción cutánea,Confirmado,0
+43,M,Dermatología,Examen rutinario,11,Miércoles,18:00,Vacunación,Confirmado,0
+74,M,Dermatología,Seguimiento,7,Miércoles,10:00,Fatiga crónica,Confirmado,1
+64,M,Neurología,Vacunación,10,Jueves,17:30,Dolor abdominal,Pendiente,1
+74,M,General,Examen rutinario,10,Lunes,11:00,Control prenatal,Confirmado,0
+39,F,Neurología,Examen rutinario,20,Viernes,12:30,Erupción cutánea,Pendiente,0
+64,F,Dermatología,Examen rutinario,18,Sábado,16:00,Problemas de visión,Cancelado,1
+73,F,Ginecología,Examen rutinario,20,Miércoles,11:00,Erupción cutánea,Pendiente,1
+47,F,Cardiología,Emergencia,9,Domingo,08:00,Control prenatal,Pendiente,1
+60,F,Cardiología,Examen rutinario,15,Jueves,11:00,Erupción cutánea,Confirmado,1
+80,M,Neurología,Emergencia,4,Lunes,13:00,Control prenatal,Cancelado,1
+65,F,Pediatría,Emergencia,8,Viernes,12:00,Chequeo anual,Cancelado,0
+78,F,Neurología,Examen rutinario,9,Jueves,13:30,Dolor de cabeza,Confirmado,1
+34,F,General,Seguimiento,13,Sábado,09:00,Erupción cutánea,Cancelado,1
+43,F,Neurología,Examen rutinario,9,Sábado,09:30,Erupción cutánea,Cancelado,1
+53,F,Cardiología,Examen rutinario,4,Viernes,09:30,Dolor de cabeza,Cancelado,0
+18,M,Dermatología,Examen rutinario,17,Miércoles,14:00,Control prenatal,Confirmado,1
+25,M,Neurología,Seguimiento,16,Sábado,17:00,Dolor abdominal,Cancelado,1
+66,M,Dermatología,Consulta inicial,15,Lunes,12:30,Dolor de cabeza,Pendiente,1
+52,F,Dermatología,Consulta inicial,3,Jueves,10:00,Control prenatal,Pendiente,0
+78,M,Pediatría,Emergencia,20,Lunes,11:00,Dolor de cabeza,Cancelado,1
+69,M,Dermatología,Emergencia,5,Miércoles,15:30,Dolor abdominal,Confirmado,1
+32,F,Cardiología,Seguimiento,5,Lunes,08:00,Problemas de visión,Confirmado,1
+64,F,Ginecología,Vacunación,20,Lunes,13:30,Fatiga crónica,Confirmado,1
+80,F,Ginecología,Consulta inicial,15,Martes,08:30,Control prenatal,Cancelado,0
+73,M,Oftalmología,Emergencia,18,Lunes,11:00,Vacunación,Cancelado,0
+39,M,General,Consulta inicial,15,Viernes,13:00,Vacunación,Pendiente,1
+31,F,Neurología,Seguimiento,2,Jueves,14:00,Control prenatal,Confirmado,1
+43,F,General,Seguimiento,13,Martes,08:30,Chequeo anual,Pendiente,1
+45,M,Cardiología,Vacunación,4,Jueves,11:00,Problemas de visión,Pendiente,1
+40,M,Dermatología,Vacunación,10,Jueves,15:00,Chequeo anual,Confirmado,1
+31,F,Ginecología,Seguimiento,13,Miércoles,13:00,Fatiga crónica,Cancelado,1
+41,F,General,Emergencia,10,Miércoles,08:30,Vacunación,Cancelado,1
+19,M,Cardiología,Consulta inicial,9,Martes,11:00,Dolor abdominal,Pendiente,1
+62,F,Ginecología,Examen rutinario,8,Sábado,09:30,Control prenatal,Pendiente,0
+43,M,Dermatología,Vacunación,3,Domingo,13:00,Fatiga crónica,Pendiente,1
+31,M,General,Examen rutinario,16,Miércoles,08:30,Erupción cutánea,Pendiente,1
+76,M,Ginecología,Emergencia,14,Domingo,15:30,Erupción cutánea,Confirmado,1
+73,M,Neurología,Vacunación,9,Miércoles,11:00,Dolor de cabeza,Pendiente,1
+68,F,Neurología,Examen rutinario,11,Miércoles,14:00,Vacunación,Pendiente,0
+24,F,Oftalmología,Emergencia,3,Jueves,10:00,Problemas de visión,Cancelado,1
+20,M,Oftalmología,Consulta inicial,5,Martes,16:00,Vacunación,Cancelado,1
+64,M,Ginecología,Emergencia,10,Jueves,18:00,Problemas de visión,Cancelado,1
+40,M,Cardiología,Vacunación,13,Viernes,13:30,Problemas de visión,Confirmado,0
+63,M,Neurología,Seguimiento,4,Jueves,17:00,Control prenatal,Confirmado,0
+60,M,Cardiología,Consulta inicial,13,Domingo,11:00,Problemas de visión,Cancelado,1
+64,F,Cardiología,Examen rutinario,12,Domingo,10:30,Chequeo anual,Cancelado,1
+77,F,Ginecología,Vacunación,5,Viernes,11:30,Erupción cutánea,Pendiente,1
+62,F,Cardiología,Seguimiento,10,Lunes,14:00,Fatiga crónica,Pendiente,0
+35,F,Neurología,Emergencia,9,Lunes,10:00,Dolor abdominal,Confirmado,1
+75,M,Dermatología,Seguimiento,20,Viernes,08:30,Vacunación,Confirmado,0
+55,M,Oftalmología,Vacunación,7,Viernes,12:00,Dolor abdominal,Pendiente,0
+52,M,Dermatología,Vacunación,2,Jueves,13:00,Fatiga crónica,Cancelado,1
+68,M,Cardiología,Seguimiento,7,Viernes,10:30,Dolor de cabeza,Pendiente,1
+32,M,Dermatología,Emergencia,8,Martes,11:00,Fatiga crónica,Confirmado,0
+42,F,Neurología,Seguimiento,7,Lunes,11:00,Vacunación,Confirmado,0
+72,M,Neurología,Vacunación,14,Lunes,17:00,Erupción cutánea,Pendiente,0
+54,F,Cardiología,Vacunación,19,Sábado,10:30,Dolor abdominal,Pendiente,1
+45,F,Ginecología,Examen rutinario,5,Viernes,13:00,Dolor abdominal,Pendiente,1
+27,F,Dermatología,Examen rutinario,18,Miércoles,13:00,Control prenatal,Confirmado,1
+56,F,Ginecología,Consulta inicial,20,Miércoles,11:00,Control prenatal,Cancelado,1
+74,M,Ginecología,Vacunación,12,Viernes,08:30,Fatiga crónica,Pendiente,1
+34,F,Pediatría,Examen rutinario,17,Martes,17:00,Fatiga crónica,Confirmado,0
+56,F,Cardiología,Seguimiento,13,Miércoles,09:30,Dolor de cabeza,Confirmado,1
+39,F,Oftalmología,Emergencia,2,Sábado,10:30,Problemas de visión,Confirmado,1
+43,M,Neurología,Seguimiento,13,Domingo,16:00,Vacunación,Pendiente,0
+79,M,Neurología,Emergencia,7,Viernes,10:00,Control prenatal,Pendiente,0
+61,M,Cardiología,Examen rutinario,10,Martes,11:00,Vacunación,Cancelado,0
+42,F,General,Consulta inicial,6,Martes,12:00,Dolor de cabeza,Confirmado,0
+34,F,General,Seguimiento,3,Jueves,08:00,Control prenatal,Pendiente,1
+30,M,General,Seguimiento,3,Martes,08:00,Control prenatal,Confirmado,1
+37,F,Oftalmología,Seguimiento,18,Miércoles,17:00,Problemas de visión,Confirmado,1
+42,M,Neurología,Emergencia,11,Domingo,10:30,Vacunación,Cancelado,1
+21,M,Cardiología,Examen rutinario,20,Miércoles,16:30,Erupción cutánea,Pendiente,1
+27,F,Neurología,Seguimiento,5,Viernes,12:30,Vacunación,Pendiente,1
+20,F,Ginecología,Seguimiento,19,Domingo,13:00,Vacunación,Confirmado,0
+58,F,Dermatología,Consulta inicial,19,Viernes,08:00,Problemas de visión,Confirmado,1
+62,F,Dermatología,Consulta inicial,15,Martes,08:00,Control prenatal,Cancelado,1
+35,M,Neurología,Examen rutinario,16,Sábado,14:00,Dolor de cabeza,Cancelado,0
+64,M,Pediatría,Examen rutinario,9,Lunes,10:00,Vacunación,Cancelado,0
+53,M,Oftalmología,Vacunación,4,Domingo,17:30,Dolor abdominal,Cancelado,1
+64,M,General,Consulta inicial,15,Jueves,08:00,Erupción cutánea,Cancelado,1
+39,M,Oftalmología,Vacunación,12,Lunes,17:30,Erupción cutánea,Cancelado,0
+51,F,Oftalmología,Emergencia,3,Martes,09:00,Problemas de visión,Confirmado,1
+64,M,Ginecología,Vacunación,14,Martes,16:30,Chequeo anual,Cancelado,1
+25,M,Oftalmología,Seguimiento,17,Lunes,12:00,Dolor de cabeza,Confirmado,1
+57,M,Dermatología,Vacunación,19,Jueves,14:30,Dolor abdominal,Confirmado,0
+66,F,Ginecología,Examen rutinario,6,Domingo,16:00,Vacunación,Pendiente,1
+61,F,Cardiología,Emergencia,4,Domingo,14:30,Chequeo anual,Confirmado,1
+36,F,Oftalmología,Seguimiento,7,Lunes,09:30,Dolor de cabeza,Confirmado,0
+59,F,Oftalmología,Vacunación,19,Viernes,10:00,Problemas de visión,Cancelado,1
+58,M,Cardiología,Emergencia,17,Miércoles,18:00,Chequeo anual,Confirmado,1
+54,M,Oftalmología,Emergencia,16,Sábado,16:00,Control prenatal,Cancelado,0
+23,F,Cardiología,Seguimiento,15,Viernes,18:30,Fatiga crónica,Cancelado,0
+69,F,Ginecología,Vacunación,8,Domingo,08:30,Chequeo anual,Cancelado,0
+43,M,Dermatología,Emergencia,19,Miércoles,18:30,Fatiga crónica,Pendiente,1
+51,M,Cardiología,Emergencia,8,Sábado,10:00,Erupción cutánea,Cancelado,0
+76,F,Pediatría,Consulta inicial,18,Sábado,09:30,Dolor abdominal,Confirmado,1
+73,F,Cardiología,Emergencia,16,Sábado,09:30,Dolor de cabeza,Cancelado,1
+76,F,Oftalmología,Consulta inicial,20,Martes,10:30,Dolor abdominal,Cancelado,0
+62,F,General,Vacunación,19,Sábado,17:30,Dolor abdominal,Cancelado,1
+23,M,General,Vacunación,10,Jueves,18:00,Vacunación,Pendiente,1
+54,M,Ginecología,Vacunación,17,Lunes,14:00,Problemas de visión,Confirmado,1
+74,M,Neurología,Examen rutinario,13,Domingo,18:30,Chequeo anual,Pendiente,0
+50,F,Ginecología,Vacunación,13,Jueves,10:00,Dolor de cabeza,Confirmado,1
+70,F,Neurología,Emergencia,7,Lunes,11:00,Erupción cutánea,Pendiente,1
+39,M,General,Seguimiento,10,Viernes,17:30,Control prenatal,Confirmado,1
+38,M,General,Consulta inicial,2,Viernes,08:00,Problemas de visión,Pendiente,0
+23,M,Cardiología,Examen rutinario,4,Lunes,14:30,Problemas de visión,Cancelado,1
+23,M,Dermatología,Vacunación,6,Jueves,09:30,Dolor de cabeza,Pendiente,1
+72,F,Pediatría,Vacunación,18,Lunes,16:00,Problemas de visión,Pendiente,0
+65,M,Ginecología,Seguimiento,6,Sábado,18:00,Vacunación,Cancelado,1
+21,M,Oftalmología,Seguimiento,17,Martes,14:30,Problemas de visión,Cancelado,1
+47,M,Neurología,Examen rutinario,14,Domingo,15:30,Erupción cutánea,Confirmado,1
+28,M,Oftalmología,Consulta inicial,11,Viernes,14:30,Erupción cutánea,Confirmado,1
+79,M,Dermatología,Vacunación,19,Domingo,15:30,Vacunación,Confirmado,1
+79,M,Neurología,Examen rutinario,2,Martes,17:30,Chequeo anual,Pendiente,1
+47,M,Ginecología,Emergencia,3,Sábado,11:30,Chequeo anual,Confirmado,1
+48,F,Cardiología,Emergencia,11,Sábado,09:00,Dolor abdominal,Pendiente,1
+41,F,Oftalmología,Examen rutinario,6,Viernes,17:00,Erupción cutánea,Pendiente,1
+72,F,Dermatología,Vacunación,14,Viernes,08:00,Vacunación,Confirmado,1
+26,F,Ginecología,Examen rutinario,19,Sábado,08:30,Control prenatal,Confirmado,1
+72,M,General,Vacunación,16,Miércoles,15:00,Chequeo anual,Pendiente,1
+20,F,General,Seguimiento,7,Domingo,18:30,Problemas de visión,Cancelado,1
+68,F,Ginecología,Examen rutinario,8,Martes,12:30,Dolor de cabeza,Cancelado,0
+48,M,Ginecología,Vacunación,19,Domingo,16:30,Dolor de cabeza,Pendiente,0
+57,M,Ginecología,Examen rutinario,20,Martes,18:30,Fatiga crónica,Confirmado,1
+54,F,Neurología,Examen rutinario,16,Miércoles,14:30,Erupción cutánea,Pendiente,0
+53,F,Ginecología,Vacunación,7,Jueves,16:00,Vacunación,Pendiente,0
+41,M,Oftalmología,Vacunación,9,Martes,14:00,Control prenatal,Confirmado,1
+48,F,Dermatología,Consulta inicial,13,Domingo,08:00,Dolor abdominal,Cancelado,0
+23,M,Neurología,Examen rutinario,1,Lunes,10:00,Problemas de visión,Pendiente,0
+19,M,Ginecología,Emergencia,8,Sábado,14:00,Vacunación,Cancelado,1
+37,M,Pediatría,Examen rutinario,4,Sábado,14:30,Fatiga crónica,Cancelado,1
+45,M,Pediatría,Examen rutinario,3,Miércoles,09:00,Dolor de cabeza,Confirmado,1
+28,F,Dermatología,Vacunación,3,Martes,15:00,Vacunación,Pendiente,1
+21,M,General,Examen rutinario,13,Jueves,17:00,Problemas de visión,Pendiente,1
+32,M,Cardiología,Examen rutinario,8,Martes,16:00,Control prenatal,Cancelado,1
+23,F,Cardiología,Emergencia,7,Sábado,09:00,Erupción cutánea,Cancelado,1
+71,M,General,Vacunación,1,Viernes,15:30,Control prenatal,Confirmado,0
+66,F,Neurología,Examen rutinario,16,Lunes,14:30,Chequeo anual,Cancelado,0
+47,F,Neurología,Seguimiento,6,Miércoles,13:30,Problemas de visión,Confirmado,1
+73,F,Neurología,Consulta inicial,7,Viernes,13:30,Fatiga crónica,Pendiente,1
+55,M,Cardiología,Emergencia,12,Domingo,13:00,Chequeo anual,Confirmado,1
+68,F,Pediatría,Examen rutinario,9,Jueves,16:00,Chequeo anual,Cancelado,1
+79,F,Cardiología,Seguimiento,11,Viernes,11:30,Chequeo anual,Pendiente,1
+74,M,Oftalmología,Examen rutinario,10,Domingo,16:00,Vacunación,Confirmado,1
+19,F,Ginecología,Examen rutinario,1,Viernes,18:00,Fatiga crónica,Pendiente,1
+32,F,Neurología,Vacunación,18,Jueves,17:30,Dolor de cabeza,Confirmado,0
+28,F,Pediatría,Vacunación,4,Viernes,13:00,Control prenatal,Cancelado,1
+25,F,Dermatología,Vacunación,5,Miércoles,08:30,Erupción cutánea,Cancelado,0
+43,F,Dermatología,Seguimiento,9,Sábado,12:30,Vacunación,Pendiente,1
+68,M,Ginecología,Examen rutinario,17,Martes,12:30,Dolor de cabeza,Pendiente,1
+62,F,Pediatría,Consulta inicial,3,Viernes,13:00,Control prenatal,Pendiente,1
+61,F,Cardiología,Emergencia,16,Miércoles,10:30,Erupción cutánea,Confirmado,1
+22,M,Cardiología,Vacunación,5,Martes,09:30,Fatiga crónica,Cancelado,1
+23,M,Oftalmología,Vacunación,16,Domingo,13:30,Erupción cutánea,Pendiente,1
+43,M,Oftalmología,Examen rutinario,3,Martes,13:00,Fatiga crónica,Pendiente,1
+71,F,Cardiología,Examen rutinario,20,Domingo,14:00,Problemas de visión,Pendiente,1
+21,M,Dermatología,Seguimiento,15,Viernes,10:00,Erupción cutánea,Confirmado,1
+36,F,Neurología,Seguimiento,3,Miércoles,10:30,Control prenatal,Pendiente,1
+37,F,Dermatología,Vacunación,20,Sábado,08:00,Control prenatal,Pendiente,0
+50,M,Oftalmología,Examen rutinario,14,Viernes,10:30,Fatiga crónica,Confirmado,1
+37,M,Ginecología,Consulta inicial,16,Domingo,16:30,Control prenatal,Confirmado,1
+66,F,Cardiología,Emergencia,17,Jueves,18:30,Dolor abdominal,Pendiente,1
+29,M,Oftalmología,Examen rutinario,20,Martes,12:00,Problemas de visión,Pendiente,1
+64,F,Oftalmología,Examen rutinario,18,Viernes,15:00,Vacunación,Confirmado,1
+18,M,Neurología,Seguimiento,18,Domingo,11:30,Erupción cutánea,Cancelado,1
+43,M,Cardiología,Emergencia,14,Martes,17:00,Vacunación,Confirmado,1
+31,M,Neurología,Vacunación,18,Domingo,15:30,Dolor de cabeza,Cancelado,1
+55,F,Cardiología,Examen rutinario,15,Miércoles,10:30,Vacunación,Pendiente,0
+54,M,Neurología,Vacunación,15,Lunes,10:30,Chequeo anual,Pendiente,1
+79,F,Dermatología,Examen rutinario,6,Viernes,18:30,Control prenatal,Cancelado,0
+28,F,Ginecología,Vacunación,15,Sábado,09:00,Vacunación,Confirmado,0
+80,F,Ginecología,Emergencia,18,Viernes,12:30,Dolor de cabeza,Pendiente,1
+53,F,Cardiología,Seguimiento,4,Martes,08:00,Dolor de cabeza,Cancelado,0
+30,M,Pediatría,Emergencia,8,Miércoles,14:30,Chequeo anual,Confirmado,1
+60,F,General,Consulta inicial,15,Domingo,09:30,Dolor de cabeza,Cancelado,1
+20,F,Oftalmología,Seguimiento,3,Jueves,13:30,Fatiga crónica,Confirmado,1
+50,M,Oftalmología,Emergencia,15,Sábado,10:30,Dolor abdominal,Confirmado,1
+23,F,Cardiología,Consulta inicial,13,Miércoles,13:00,Fatiga crónica,Confirmado,0
+67,M,Neurología,Examen rutinario,9,Viernes,13:30,Control prenatal,Confirmado,1
+73,F,Pediatría,Examen rutinario,2,Jueves,12:30,Control prenatal,Cancelado,0
+27,M,Dermatología,Vacunación,8,Miércoles,16:30,Control prenatal,Cancelado,1
+22,F,Neurología,Seguimiento,20,Lunes,11:00,Problemas de visión,Cancelado,1
+40,M,Neurología,Examen rutinario,17,Sábado,11:00,Vacunación,Cancelado,1
+27,F,Cardiología,Seguimiento,13,Martes,13:00,Dolor abdominal,Cancelado,1
+61,F,Cardiología,Examen rutinario,1,Miércoles,09:30,Vacunación,Confirmado,1
+19,M,Oftalmología,Vacunación,2,Miércoles,17:30,Dolor abdominal,Pendiente,1
+30,M,Cardiología,Emergencia,15,Lunes,08:00,Vacunación,Pendiente,1
+57,M,Cardiología,Vacunación,12,Viernes,14:00,Chequeo anual,Cancelado,0
+19,M,Cardiología,Consulta inicial,14,Domingo,16:30,Erupción cutánea,Cancelado,1
+37,F,Oftalmología,Examen rutinario,2,Domingo,12:00,Fatiga crónica,Pendiente,1
+18,F,Dermatología,Consulta inicial,18,Sábado,12:00,Dolor de cabeza,Confirmado,1
+80,M,Dermatología,Consulta inicial,7,Sábado,12:00,Dolor de cabeza,Cancelado,0
+54,F,General,Seguimiento,6,Martes,12:30,Fatiga crónica,Confirmado,1
+26,M,General,Examen rutinario,14,Miércoles,08:30,Chequeo anual,Pendiente,1
+34,M,Cardiología,Consulta inicial,8,Jueves,10:30,Dolor abdominal,Pendiente,0
+26,F,General,Emergencia,2,Miércoles,15:00,Fatiga crónica,Cancelado,1
+28,F,Oftalmología,Consulta inicial,17,Domingo,09:00,Problemas de visión,Confirmado,1
+32,F,Dermatología,Emergencia,5,Martes,13:00,Dolor abdominal,Cancelado,1
+41,F,Neurología,Seguimiento,14,Miércoles,10:30,Dolor de cabeza,Pendiente,1
+55,F,Dermatología,Consulta inicial,20,Lunes,09:00,Problemas de visión,Confirmado,1
+72,F,Dermatología,Vacunación,3,Domingo,13:00,Vacunación,Cancelado,0
+52,F,Oftalmología,Seguimiento,5,Miércoles,15:00,Problemas de visión,Cancelado,1
+47,M,General,Emergencia,16,Miércoles,14:00,Dolor abdominal,Cancelado,0
+48,M,Neurología,Seguimiento,18,Domingo,17:30,Chequeo anual,Pendiente,1
+66,M,Oftalmología,Consulta inicial,17,Jueves,12:30,Vacunación,Cancelado,0
+22,M,Cardiología,Examen rutinario,11,Domingo,10:30,Dolor abdominal,Confirmado,0
+79,M,Ginecología,Examen rutinario,17,Lunes,15:00,Vacunación,Cancelado,1
+77,F,Dermatología,Emergencia,16,Lunes,16:30,Problemas de visión,Pendiente,0
+61,M,Ginecología,Emergencia,2,Miércoles,16:30,Dolor de cabeza,Cancelado,0
+67,M,Oftalmología,Examen rutinario,4,Sábado,11:00,Dolor abdominal,Pendiente,1
+31,M,Oftalmología,Emergencia,7,Jueves,15:00,Erupción cutánea,Pendiente,0
+70,M,Oftalmología,Seguimiento,2,Miércoles,16:30,Chequeo anual,Confirmado,0
+73,M,Ginecología,Vacunación,6,Domingo,16:30,Erupción cutánea,Confirmado,1
+28,M,Oftalmología,Vacunación,17,Miércoles,17:30,Erupción cutánea,Cancelado,1
+26,M,Cardiología,Seguimiento,7,Martes,12:00,Fatiga crónica,Pendiente,1
+51,F,Oftalmología,Vacunación,5,Martes,08:30,Problemas de visión,Pendiente,1
+29,F,Pediatría,Consulta inicial,5,Sábado,11:30,Dolor abdominal,Confirmado,1
+52,M,General,Seguimiento,20,Jueves,17:30,Chequeo anual,Confirmado,1
+52,F,Ginecología,Emergencia,16,Viernes,08:30,Dolor abdominal,Cancelado,1
+18,F,Pediatría,Seguimiento,19,Martes,13:00,Problemas de visión,Pendiente,0
+57,F,Oftalmología,Examen rutinario,9,Viernes,11:00,Dolor abdominal,Confirmado,1
+39,F,Cardiología,Emergencia,5,Lunes,10:30,Vacunación,Cancelado,1
+77,M,Dermatología,Examen rutinario,8,Martes,12:30,Problemas de visión,Pendiente,1
+46,F,Neurología,Emergencia,9,Martes,10:00,Dolor abdominal,Pendiente,0
+25,F,General,Vacunación,5,Jueves,13:00,Fatiga crónica,Confirmado,0
+28,F,Neurología,Seguimiento,10,Sábado,08:00,Dolor de cabeza,Cancelado,1
+58,M,Oftalmología,Consulta inicial,2,Viernes,08:30,Dolor abdominal,Confirmado,0
+54,M,General,Emergencia,9,Domingo,08:00,Vacunación,Cancelado,1
+31,M,General,Emergencia,11,Martes,17:00,Chequeo anual,Pendiente,1
+77,M,Cardiología,Examen rutinario,4,Martes,08:30,Fatiga crónica,Cancelado,1
+47,M,General,Vacunación,2,Jueves,18:00,Chequeo anual,Cancelado,0
+52,M,Ginecología,Examen rutinario,6,Jueves,17:30,Erupción cutánea,Cancelado,1
+38,M,Pediatría,Examen rutinario,14,Sábado,18:00,Fatiga crónica,Cancelado,1
+54,F,Pediatría,Vacunación,1,Viernes,09:30,Chequeo anual,Cancelado,1
+22,F,Pediatría,Consulta inicial,18,Lunes,13:30,Dolor de cabeza,Confirmado,0
+36,F,Ginecología,Examen rutinario,7,Domingo,18:30,Vacunación,Cancelado,0
+76,M,Neurología,Examen rutinario,1,Sábado,17:30,Erupción cutánea,Cancelado,1
+31,M,Cardiología,Emergencia,1,Lunes,16:30,Problemas de visión,Pendiente,0
+43,M,General,Vacunación,1,Miércoles,08:00,Chequeo anual,Cancelado,1
+79,M,Ginecología,Seguimiento,4,Martes,08:00,Fatiga crónica,Pendiente,1
+21,M,Pediatría,Consulta inicial,4,Viernes,14:30,Vacunación,Confirmado,1
+42,F,Oftalmología,Consulta inicial,18,Sábado,09:30,Dolor abdominal,Confirmado,1
+62,F,Dermatología,Vacunación,11,Martes,10:00,Dolor de cabeza,Cancelado,0
+59,M,General,Emergencia,1,Viernes,13:00,Vacunación,Confirmado,0
+42,M,Ginecología,Emergencia,10,Viernes,14:00,Vacunación,Cancelado,0
+35,M,Ginecología,Vacunación,9,Viernes,15:30,Problemas de visión,Confirmado,1
+57,M,Cardiología,Emergencia,4,Martes,14:00,Vacunación,Cancelado,1
+25,F,Cardiología,Consulta inicial,6,Sábado,18:30,Problemas de visión,Cancelado,0
+56,M,Ginecología,Consulta inicial,16,Domingo,08:30,Dolor de cabeza,Pendiente,1
+57,M,Pediatría,Seguimiento,2,Jueves,15:30,Dolor de cabeza,Pendiente,1
+31,M,Dermatología,Vacunación,18,Martes,10:30,Dolor abdominal,Pendiente,1
+49,M,General,Examen rutinario,10,Viernes,14:30,Problemas de visión,Pendiente,0
+68,F,Cardiología,Examen rutinario,17,Sábado,08:00,Problemas de visión,Cancelado,0
+78,M,General,Seguimiento,13,Domingo,16:00,Chequeo anual,Confirmado,0
+55,M,Pediatría,Seguimiento,18,Miércoles,13:00,Chequeo anual,Cancelado,1
+50,F,General,Emergencia,13,Lunes,17:00,Dolor abdominal,Pendiente,0
+40,F,Oftalmología,Seguimiento,17,Viernes,09:00,Dolor de cabeza,Pendiente,1
+80,F,Cardiología,Seguimiento,5,Miércoles,13:00,Control prenatal,Confirmado,1
+32,M,Pediatría,Examen rutinario,11,Jueves,10:00,Chequeo anual,Pendiente,1
+50,M,Pediatría,Emergencia,7,Domingo,16:00,Vacunación,Cancelado,1
+42,F,Dermatología,Seguimiento,10,Domingo,18:30,Dolor de cabeza,Cancelado,0
+34,F,Dermatología,Seguimiento,17,Viernes,11:00,Control prenatal,Cancelado,1
+50,F,Oftalmología,Emergencia,15,Domingo,12:30,Erupción cutánea,Cancelado,1
+64,F,Pediatría,Vacunación,18,Miércoles,13:00,Vacunación,Cancelado,1
+72,F,Neurología,Emergencia,19,Viernes,09:00,Fatiga crónica,Confirmado,1
+19,F,Pediatría,Examen rutinario,2,Martes,17:30,Problemas de visión,Cancelado,1
+31,M,Dermatología,Vacunación,4,Sábado,12:30,Dolor de cabeza,Pendiente,0
+70,M,Neurología,Consulta inicial,3,Miércoles,12:30,Fatiga crónica,Pendiente,0
+57,M,Cardiología,Emergencia,7,Sábado,14:30,Dolor abdominal,Pendiente,0
+57,F,Cardiología,Examen rutinario,18,Martes,13:30,Problemas de visión,Pendiente,1
+68,F,General,Vacunación,10,Martes,15:00,Problemas de visión,Confirmado,0
+56,F,Ginecología,Emergencia,7,Sábado,12:30,Vacunación,Pendiente,1
+68,F,Dermatología,Seguimiento,8,Miércoles,12:30,Fatiga crónica,Confirmado,1
+23,F,Ginecología,Emergencia,6,Sábado,17:00,Problemas de visión,Pendiente,1
+23,F,Neurología,Consulta inicial,1,Sábado,08:00,Chequeo anual,Confirmado,1
+20,M,Dermatología,Emergencia,4,Lunes,12:30,Dolor de cabeza,Confirmado,1
+24,M,Oftalmología,Vacunación,14,Miércoles,08:30,Chequeo anual,Confirmado,0
+68,F,Pediatría,Vacunación,17,Lunes,16:00,Vacunación,Pendiente,0
+25,M,Oftalmología,Emergencia,20,Viernes,11:00,Control prenatal,Confirmado,1
+59,F,Neurología,Vacunación,18,Domingo,11:00,Erupción cutánea,Cancelado,0
+69,M,Dermatología,Seguimiento,11,Sábado,17:30,Vacunación,Cancelado,0
+32,F,Neurología,Emergencia,14,Viernes,12:00,Dolor de cabeza,Pendiente,1
+64,F,Pediatría,Seguimiento,9,Miércoles,18:30,Problemas de visión,Cancelado,0
+46,M,Cardiología,Seguimiento,15,Sábado,08:30,Fatiga crónica,Cancelado,1
+50,M,Cardiología,Examen rutinario,12,Domingo,14:30,Fatiga crónica,Cancelado,1
+69,F,Neurología,Emergencia,10,Viernes,16:00,Dolor abdominal,Pendiente,1
+47,F,Ginecología,Vacunación,19,Jueves,08:00,Vacunación,Pendiente,1
+56,M,Dermatología,Seguimiento,19,Martes,12:00,Dolor de cabeza,Cancelado,1
+44,M,Dermatología,Examen rutinario,6,Sábado,17:30,Dolor abdominal,Pendiente,0
+53,F,Cardiología,Emergencia,20,Domingo,18:00,Problemas de visión,Confirmado,0
+46,M,General,Emergencia,6,Martes,17:00,Control prenatal,Cancelado,1
+55,F,Oftalmología,Consulta inicial,8,Lunes,09:30,Vacunación,Pendiente,1
+74,F,General,Consulta inicial,1,Viernes,11:30,Control prenatal,Pendiente,1
+50,F,Pediatría,Seguimiento,17,Lunes,14:00,Dolor de cabeza,Cancelado,1
+78,F,Oftalmología,Consulta inicial,17,Domingo,09:30,Control prenatal,Pendiente,0
+54,M,Oftalmología,Seguimiento,15,Sábado,12:00,Control prenatal,Cancelado,1
+44,M,Neurología,Vacunación,7,Martes,12:00,Dolor de cabeza,Pendiente,1
+72,M,Cardiología,Seguimiento,19,Martes,18:30,Dolor de cabeza,Confirmado,1
